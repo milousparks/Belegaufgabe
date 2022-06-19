@@ -1,0 +1,20 @@
+\selectlanguage *{english}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Short caption to special figure}}{8}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces loop performance comparison}}{10}{figure.3.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces 1 pass}}{10}{figure.3.2}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces 5 passes}}{10}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces This is the caption I wrote}}{11}{figure.3.3}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Usage of a system over time. Top: Usage patterns for each of the ten participants. Bottom: Total usage pattern}}{14}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diverging stacked bar chart of the data in Table\nobreakspace {}\ref {tab:survey}}}{16}{figure.4.2}%
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces The \acf {SUS} Questionnaire}}{20}{figure.A.1}%
+\addvspace {10pt}
+\addvspace {10pt}

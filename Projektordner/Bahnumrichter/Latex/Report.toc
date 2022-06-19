@@ -1,0 +1,34 @@
+\selectlanguage *{english}
+\contentsline {chapter}{Summary}{i}{chapter*.1}%
+\contentsline {chapter}{Preface}{iii}{chapter*.3}%
+\contentsline {chapter}{Acknowledgements}{v}{chapter*.4}%
+\contentsline {chapter}{Contents}{vii}{section*.5}%
+\contentsline {chapter}{List of Figures}{ix}{section*.8}%
+\contentsline {chapter}{Todo list}{xi}{section*.9}%
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {2}Heading on Level\xspace 0 (chapter)}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Heading on Level\xspace 1 (section)}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Heading on Level\xspace 2 (subsection)}{3}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Heading on Level\xspace 3 (subsubsection)}{4}{subsubsection.2.1.1.1}%
+\contentsline {paragraph}{Heading on Level\xspace 4 (paragraph)}{4}{section*.11}%
+\contentsline {section}{\numberline {2.2}Lists}{4}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Example for list\xspace (itemize)}{4}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Example for list\xspace (4*itemize)}{4}{subsubsection.2.2.1.1}%
+\contentsline {subsection}{\numberline {2.2.2}Example for list\xspace (enumerate)}{5}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Example for list\xspace (4*enumerate)}{5}{subsubsection.2.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.3}Example for list\xspace (description)}{5}{subsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}Example for list\xspace (4*description)}{6}{subsubsection.2.2.3.1}%
+\contentsline {chapter}{\chapternumberline {3}Example Chapter}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Torquent Arcu}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Vestibulum}{9}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Luctus}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Sollicitudin vestibulum}{12}{section.3.3}%
+\contentsline {chapter}{\chapternumberline {4}Analysis of Data}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Usage Adherence Data}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Perceived Usefulness and Usability Data}{15}{section.4.2}%
+\contentsline {chapter}{\chapternumberline {5}Conclusion}{17}{chapter.5}%
+\contentsline {appendix}{\chapternumberline {A}The \acf {SUS}}{19}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {B}R Script for Plotting Data}{21}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Plotting Usage Adherence Data}{21}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Generating Diverging Stacked Bar Charts for Likert Scale Data}{23}{section.B.2}%
+\contentsline {appendix}{\chapternumberline {C}Acronyms}{25}{appendix.C}%

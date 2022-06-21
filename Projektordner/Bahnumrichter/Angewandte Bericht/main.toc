@@ -1,0 +1,7 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Allgemeine Projekt Beschreibung}{1}{section.1}%
+\contentsline {section}{\numberline {2}Konzeptvergleich: Bahnumrichteranlagen}{2}{section.2}%
+\contentsline {section}{\numberline {3}Spezifikation: Drehstromleistungstransformator}{3}{section.3}%
+\contentsline {section}{\nonumberline Abbildungsverzeichnis}{A}{section*.2}%
+\contentsline {section}{\numberline {A}Anhang}{B}{appendix.A}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

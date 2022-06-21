@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  19 JUN 2022 23:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  21 JUN 2022 16:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -8,8 +8,8 @@ entering extended mode
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-04-10> (/usr/share/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@chapter=\count186
@@ -466,7 +466,7 @@ Package textpos Info: choosing support for LaTeX3 on input line 61.
 \TPVertModule=\dimen168
 \TP@margin=\dimen169
 \TP@absmargin=\dimen170
-Grid set 16 x 16 = 38.39343pt x 49.68562pt
+Grid set 16 x 16 = 37.34424pt x 52.81541pt
 \TPboxrulesize=\dimen171
 \TP@ox=\dimen172
 \TP@oy=\dimen173
@@ -485,6 +485,8 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@posthook=\toks26
 ) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/share/texmf-dist/tex/latex/tex-gyre/tgbonum.sty
+Package: tgbonum 2009/09/27 v1.2 TeX Gyre Bonum as default roman family
 ) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -647,7 +649,7 @@ File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks41
 \c@AM@survey=\count342
 \AM@templatesizebox=\box72
-) (./defs.tex) (/usr/share/texmf-dist/tex/latex/ccicons/ccicons.sty
+) (/usr/share/texmf-dist/tex/latex/ccicons/ccicons.sty
 Package: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
  (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
@@ -674,29 +676,32 @@ Package csquotes Info: ... configuration file loaded successfully.
  (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 41.
- (./report.aux)
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 44.
+LaTeX Font Info:    Trying to load font information for T1+qbk on input line 44.
+ (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qbk.fd
+File: t1qbk.fd 2009/09/25 v1.2 font definition file for T1/qbk
+) (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-Package hyperref Info: Link coloring ON on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+Package hyperref Info: Link coloring ON on input line 44.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
@@ -706,10 +711,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count350
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
- (./report.out) (./report.out)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
 \@outlinefile=\write4
 \openout4 = `report.out'.
 
@@ -751,12 +755,12 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \topmargin=-27.36447pt
 * \headheight=12.0pt
 * \headsep=14.22636pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=21.33955pt
 * \marginparwidth=54.2025pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -777,7 +781,7 @@ LaTeX Info: Redefining \BHBI on input line 130.
 ) (/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 41.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 44.
  (/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
@@ -802,12 +806,12 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \topmargin=-74.31152pt
 * \headheight=12.0pt
 * \headsep=14.22636pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=21.33955pt
 * \marginparwidth=54.2025pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -817,27 +821,41 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 95.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 98.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 98.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 95.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 95.
-<graphics/hyperride-coverbkg.pdf, id=40, 597.50786pt x 845.04686pt>
-File: graphics/hyperride-coverbkg.pdf Graphic file (type pdf)
-<use graphics/hyperride-coverbkg.pdf>
-Package pdftex.def Info: graphics/hyperride-coverbkg.pdf  used on input line 95.
-(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
- [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/HYPERRIDE Periodic Technical Report Template/report.tex:98: Undefined control sequence.
+\makefront ...\rm Project Acronym: \bf \hyperride 
+                                                  {}} \\[2.5ex] {\fontsize {...
+l.98 \makecover
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 98.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\T1/qbk/m/it/12 Funding In-stru-
+ []
 
 
- <./graphics/hyperride-coverbkg.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\T1/qbk/m/it/12 Beneficiary in
+ []
+
+[1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
 
 Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 
@@ -858,12 +876,12 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \topmargin=-27.36447pt
 * \headheight=12.0pt
 * \headsep=14.22636pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=-21.90874pt
 * \marginparwidth=54.2025pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -873,458 +891,322 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./report.chl)
-Overfull \hbox (27.19284pt too wide) in paragraph at lines 95--96
+(./report.chl
+Overfull \hbox (10.17284pt too wide) in paragraph at lines 2--2
+[]|\T1/qbk/m/n/10 dd/mm/yyyy| 
+ []
+
+)
+Overfull \hbox (27.19284pt too wide) in paragraph at lines 98--99
 [] 
  []
 
 
 
 pdfTeX warning: pdflatex (file ./graphics/hyperride-logo.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<graphics/hyperride-logo.pdf, id=80, 401.02542pt x 117.65927pt>
+<graphics/hyperride-logo.pdf, id=14, 401.02542pt x 117.65927pt>
 File: graphics/hyperride-logo.pdf Graphic file (type pdf)
 <use graphics/hyperride-logo.pdf>
-Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 101.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
+Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 104.
+(pdftex.def)             Requested size: 41.82472pt x 12.2711pt.
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
+(fancyhdr)                Make it at least 32.52112pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.52112pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
+(fancyhdr)                \addtolength{\topmargin}{-20.52112pt}.
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 101.
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 104.
 
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
+(fancyhdr)                Make it at least 14.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.60004pt}.
 
 [2.2
 
 
 
 
- <./graphics/hyperride-logo.pdf>] (./report.toc)
+ <./graphics/hyperride-logo.pdf>]
 \tf@toc=\write5
 \openout5 = `report.toc'.
 
 File: graphics/hyperride-logo.pdf Graphic file (type pdf)
 <use graphics/hyperride-logo.pdf>
-Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 110.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
+Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 113.
+(pdftex.def)             Requested size: 41.82472pt x 12.2711pt.
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
+(fancyhdr)                Make it at least 32.52112pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.52112pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
+(fancyhdr)                \addtolength{\topmargin}{-20.52112pt}.
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 110.
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 113.
 
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
+(fancyhdr)                Make it at least 14.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.60004pt}.
 
 [3.3
 
-] (./report.lof)
+]
 \tf@lof=\write6
 \openout6 = `report.lof'.
 
 File: graphics/hyperride-logo.pdf Graphic file (type pdf)
 <use graphics/hyperride-logo.pdf>
-Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 118.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
+Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 121.
+(pdftex.def)             Requested size: 41.82472pt x 12.2711pt.
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
+(fancyhdr)                Make it at least 32.52112pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.52112pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
+(fancyhdr)                \addtolength{\topmargin}{-20.52112pt}.
 
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 118.
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 121.
 
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
+(fancyhdr)                Make it at least 14.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.60004pt}.
 
 [4.4
 
-] (./sections/allgemeines.tex) (./sections/konzept_vergleich.tex
+] (./sections/abbreviations.tex) (./sections/allgemeines.tex
 File: graphics/hyperride-logo.pdf Graphic file (type pdf)
 <use graphics/hyperride-logo.pdf>
-Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 6.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
+Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 2.
+(pdftex.def)             Requested size: 41.82472pt x 12.2711pt.
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
+(fancyhdr)                Make it at least 32.52112pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.52112pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
+(fancyhdr)                \addtolength{\topmargin}{-20.52112pt}.
 
 
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 6.
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 2.
 
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
+(fancyhdr)                Make it at least 14.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.60004pt}.
 
 [5.5
 
+
+]
+Package acronym Info: Label `acro:4QS' newly defined as it shall be overridden
+although it is yet undefined on input line 5.
+
+
+Package acronym Warning: Acronym `4QS' is not defined on input line 5.
+
+
+Package acronym Warning: Acronym `4QS' is not defined on input line 5.
+
+
+Overfull \hbox (2.33737pt too wide) in paragraph at lines 4--6
+\OT1/cmss/m/n/12 50 []$ \T1/qbk/m/n/12 Drehstrom Netz für das $\OT1/cmss/m/n/12 110 []$\T1/qbk/m/n/12 ,$\OT1/cmss/m/n/12 16.7 []$ \T1/qbk/m/n/12 Bahn-netz aus-gelegt. Die Ein-speisung
+ []
+
+
+Package acronym Warning: Acronym `4QS' is not defined on input line 9.
+
+
+Overfull \hbox (5.2793pt too wide) in paragraph at lines 11--12
+[]\T1/qbk/m/n/12 Für den Zwis-chenkreis ist zusät-zlich ein Vorladungs- und Er-dungssys-tem vorge-
+ []
+
+) (./sections/konzept_vergleich.tex
+File: graphics/hyperride-logo.pdf Graphic file (type pdf)
+<use graphics/hyperride-logo.pdf>
+Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 6.
+(pdftex.def)             Requested size: 41.82472pt x 12.2711pt.
+
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
+[]|[]| 
+ []
+
+
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.52112pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.52112pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.52112pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 6.
+
+
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
+[]|[]| 
+ []
+
+
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
+(fancyhdr)                Make it at least 14.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.60004pt}.
+
+[6.6
 
 ]
 Overfull \hbox (1.20828pt too wide) in paragraph at lines 7--7
 []\T1/phv/b/n/18 Konzeptionsvergleich zu Bah-num-richter-an-lage 
  []
 
-) (./sections/exploitation-dissemination.tex
-File: graphics/hyperride-logo.pdf Graphic file (type pdf)
-<use graphics/hyperride-logo.pdf>
-Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 5.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
-
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
-[]|[]| 
- []
-
-
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
- [][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 5.
-
-
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
-[]|[]| 
- []
-
-
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
- [][] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
-
-[6.6
-
-]
-Package acronym Info: Label `acro:DoA' newly defined as it shall be overridden
-although it is yet undefined on input line 13.
-
-
-Package acronym Warning: Acronym `DoA' is not defined on input line 13.
-
-
-Package acronym Warning: Acronym `DoA' is not defined on input line 13.
-
-) (./sections/data-management.tex
-File: graphics/hyperride-logo.pdf Graphic file (type pdf)
-<use graphics/hyperride-logo.pdf>
-Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 5.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
-
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
-[]|[]| 
- []
-
-
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
- [][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 5.
-
-
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
-[]|[]| 
- []
-
-
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
- [][] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
-
-[7.7
-
-]
-Package acronym Info: Label `acro:DMP' newly defined as it shall be overridden
-although it is yet undefined on input line 13.
-
-
-Package acronym Warning: Acronym `DMP' is not defined on input line 13.
-
-
-Package acronym Warning: Acronym `DMP' is not defined on input line 13.
-
-
-Package acronym Warning: Acronym `DoA' is not defined on input line 13.
-
-) (./sections/follow-up-reviews.tex
-File: graphics/hyperride-logo.pdf Graphic file (type pdf)
-<use graphics/hyperride-logo.pdf>
-Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 6.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
-
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
-[]|[]| 
- []
-
-
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
- [][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 6.
-
-
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
-[]|[]| 
- []
-
-
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
- [][] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
-
-[8.8
-
-]) (./sections/deviations.tex
-File: graphics/hyperride-logo.pdf Graphic file (type pdf)
-<use graphics/hyperride-logo.pdf>
-Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 5.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
-
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
-[]|[]| 
- []
-
-
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
- [][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 5.
-
-
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
-[]|[]| 
- []
-
-
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
- [][] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
-
-[9.9
-
-]
-Overfull \hbox (3.61255pt too wide) in paragraph at lines 15--16
-\T1/phv/b/n/10.95 TODO: \T1/phv/m/n/10.95 ``In-clude ex-pla-na-tions for tasks not fully im-ple-mented, crit-i-cal ob-jec-tives not fully achieved
- []
-
-Package acronym Info: Label `acro:PM' newly defined as it shall be overridden
-although it is yet undefined on input line 21.
-
-Package acronym Warning: Acronym `PM' is not defined on input line 21.
-
-
-Package acronym Warning: Acronym `PM' is not defined on input line 21.
-
-Package acronym Info: Label `acro:WP' newly defined as it shall be overridden
-although it is yet undefined on input line 21.
-
-Package acronym Warning: Acronym `WP' is not defined on input line 21.
-
-
-Package acronym Warning: Acronym `WP' is not defined on input line 21.
-
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 31.
-(/usr/share/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-))
+./sections/konzept_vergleich.tex:17: Undefined control sequence.
+l.17 \todo
+          {Include in this section whether the information on section 2.1 of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
 File: graphics/hyperride-logo.pdf Graphic file (type pdf)
 <use graphics/hyperride-logo.pdf>
 Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 143.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
+(pdftex.def)             Requested size: 41.82472pt x 12.2711pt.
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
+(fancyhdr)                Make it at least 32.52112pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.52112pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
+(fancyhdr)                \addtolength{\topmargin}{-20.52112pt}.
 
 
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 143.
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 143.
 
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
+(fancyhdr)                Make it at least 14.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.60004pt}.
 
-[10.10
+[7.7
 
 ] (./sections/appendix-a.tex
 
 pdfTeX warning: pdflatex (file ./graphics/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<graphics/cad.pdf, id=152, 794.97pt x 614.295pt>
+<graphics/cad.pdf, id=63, 794.97pt x 614.295pt>
 File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf>
 Package pdftex.def Info: graphics/cad.pdf  used on input line 13.
@@ -1342,7 +1224,7 @@ pdfTeX warning: pdflatex (file ./graphics/cad.pdf): PDF inclusion: found PDF ver
 
 
 pdfTeX warning: pdflatex (file ./graphics/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<graphics/cad.pdf, id=155, page=1, 794.97pt x 614.295pt>
+<graphics/cad.pdf, id=66, page=1, 794.97pt x 614.295pt>
 File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 1>
 Package pdftex.def Info: graphics/cad.pdf , page1 used on input line 13.
@@ -1354,43 +1236,43 @@ Package pdftex.def Info: graphics/cad.pdf , page1 used on input line 13.
 File: graphics/hyperride-logo.pdf Graphic file (type pdf)
 <use graphics/hyperride-logo.pdf>
 Package pdftex.def Info: graphics/hyperride-logo.pdf  used on input line 13.
-(pdftex.def)             Requested size: 42.99979pt x 12.6158pt.
+(pdftex.def)             Requested size: 41.82472pt x 12.2711pt.
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 31.69582pt, for example:
-(fancyhdr)                \setlength{\headheight}{31.69582pt}.
+(fancyhdr)                Make it at least 32.52112pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.52112pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-19.69582pt}.
+(fancyhdr)                \addtolength{\topmargin}{-20.52112pt}.
 
 
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 13.
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 13.
 
 
-Overfull \hbox (1.75993pt too wide) has occurred while \output is active
+Overfull \hbox (4.69766pt too wide) has occurred while \output is active
 []|[]| 
  []
 
 
-Overfull \hbox (23.10036pt too wide) has occurred while \output is active
+Overfull \hbox (23.45288pt too wide) has occurred while \output is active
  [][] 
  []
 
 
 Package fancyhdr Warning: \footskip is too small (-21.90874pt): 
-(fancyhdr)                Make it at least 13.68002pt, for example:
-(fancyhdr)                \setlength{\footskip}{13.68002pt}.
+(fancyhdr)                Make it at least 14.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.60004pt}.
 
-[11.11
+[8.8
 
 
 ]
@@ -1406,10 +1288,10 @@ File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 1>
 Package pdftex.def Info: graphics/cad.pdf , page1 used on input line 13.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
- [12.12 <./graphics/cad.pdf, page is rotated 90 degrees>]
+ [9.9 <./graphics/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./graphics/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<graphics/cad.pdf, id=202, page=2, 794.97pt x 614.295pt>
+<graphics/cad.pdf, id=114, page=2, 794.97pt x 614.295pt>
 File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 2>
 Package pdftex.def Info: graphics/cad.pdf , page2 used on input line 13.
@@ -1422,10 +1304,10 @@ File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 2>
 Package pdftex.def Info: graphics/cad.pdf , page2 used on input line 13.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-[13.13 <./graphics/cad.pdf, page is rotated 90 degrees>]
+[10.10 <./graphics/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./graphics/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<graphics/cad.pdf, id=208, page=3, 794.97pt x 614.295pt>
+<graphics/cad.pdf, id=119, page=3, 794.97pt x 614.295pt>
 File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 3>
 Package pdftex.def Info: graphics/cad.pdf , page3 used on input line 13.
@@ -1438,10 +1320,10 @@ File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 3>
 Package pdftex.def Info: graphics/cad.pdf , page3 used on input line 13.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-[14.14 <./graphics/cad.pdf, page is rotated 90 degrees>]
+[11.11 <./graphics/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./graphics/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<graphics/cad.pdf, id=213, page=4, 794.97pt x 614.295pt>
+<graphics/cad.pdf, id=124, page=4, 794.97pt x 614.295pt>
 File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 4>
 Package pdftex.def Info: graphics/cad.pdf , page4 used on input line 13.
@@ -1454,10 +1336,10 @@ File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 4>
 Package pdftex.def Info: graphics/cad.pdf , page4 used on input line 13.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-[15.15 <./graphics/cad.pdf, page is rotated 90 degrees>]
+[12.12 <./graphics/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./graphics/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<graphics/cad.pdf, id=218, page=5, 794.97pt x 614.295pt>
+<graphics/cad.pdf, id=129, page=5, 794.97pt x 614.295pt>
 File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 5>
 Package pdftex.def Info: graphics/cad.pdf , page5 used on input line 13.
@@ -1470,7 +1352,7 @@ File: graphics/cad.pdf Graphic file (type pdf)
 <use graphics/cad.pdf, page 5>
 Package pdftex.def Info: graphics/cad.pdf , page5 used on input line 13.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-[16.16 <./graphics/cad.pdf, page is rotated 90 degrees>])
+[13.13 <./graphics/cad.pdf, page is rotated 90 degrees>])
 \chlogfile=\write7
 \openout7 = `report.chl'.
 
@@ -1482,22 +1364,31 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 7DC400826157E7036CDB72375112872D;2170.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  FCEA7D0423E9FB47920339812D7D37A9;680.
  ) 
 Here is how much of TeX's memory you used:
- 23788 strings out of 478238
- 442707 string characters out of 5850456
- 841076 words of memory out of 5000000
- 41562 multiletter control sequences out of 15000+600000
- 531554 words of font info for 133 fonts, out of 8000000 for 9000
+ 23735 strings out of 478238
+ 442016 string characters out of 5850456
+ 847358 words of memory out of 5000000
+ 41549 multiletter control sequences out of 15000+600000
+ 537611 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,24n,90p,1015b,1036s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on report.pdf (16 pages, 449771 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qbkb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qbkr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qbkri.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
+Output written on report.pdf (13 pages, 349781 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 175 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
+ 50 words of extra memory for PDF output out of 10000 (max. 10000000)
 

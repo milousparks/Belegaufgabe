@@ -1,36 +1,9 @@
-%% istcover.sty
-%%
-%% Cover page for HYPERRIDE deliverables (adapted from EMBEDDIA, TALK, FRACAS and TRINDI)
-%%
-%%
-%%			History:
-%%			03/21/94 - MP, created (from urcstitlepage.sty and
-%%					   DYANA titlepage)
-%%			03/27/94 - MP, added ftp directory and email address
-%%			03/28/94 - RC, added HCRC
-%%			20 April 98 -- RC, adapted to TRINDI
-%%			30 APRIL 98 -- RC, adapted distribution data
-%%			Thu Feb 24 17:54:25 2000 JC adapted to M-PIRO
-%%			Wed Apr	 5 16:51:40 2000 JC generalized for IST
-%%			Tue Dec	 4 10:22:54 2001 CM changed copyright date
-%%			Tue Nov 16 2004 OL changed copyright date, logos, etc for TALK
-%%			Wed Nov 17 14:36:44 2004 TB added empty pagestyle for overflow page
-%%										(deliverable identification sheet)
-%%			2019/05/31 Adaptations for Embeddia 
-%%			2020/05/18 Adaptations for ERIGrid 2.0 (TS)
-%%          2021/07/22 Adaptations for ERIGrid 2.0 periodic reporting (TS)
-%%			2022/03/10 Adaptations for HYPERRIDE periodic reporting (TS)
-%% $Id: istcover.sty,v 1.2 2007/01/05 12:05:33 olemon Exp $
 
-%%
-%% makefront
-%% Frontpage content
-%%
 \def\makefront{
   \newpage
   \newgeometry{top=8.5mm,left=8.5mm,right=15mm,bottom=-14mm}
   % shadowed frame
-  \ThisCenterWallPaper{1}{graphics/hyperride-coverbkg}
+  %\ThisCenterWallPaper{1}{graphics/hyperride-coverbkg}
   %	\global\@topnum\z@ % prevents figures from going at top of page
   \thispagestyle{empty} % so we get no page number on title page
   \setcounter{footnote}{0}

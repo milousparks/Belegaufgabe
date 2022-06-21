@@ -1,13 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% HYPERRIDE Reporting Template
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\documentclass[11pt]{report}
+\documentclass[12pt,a4paper,ngerman]{report}
+%\documentclass[11pt]{report}
 
 \usepackage{hyperride}		% HYPERRIDE specific definitions and styles  
 \usepackage{hyperref}
 \usepackage[utf8]{inputenc}	% UTF8 package
 \usepackage[T1]{fontenc}
+\usepackage{tgbonum}
 \usepackage{textcomp}		% common special chars
 \usepackage{amsmath}		% math formula
 \usepackage{fancybox}
@@ -19,6 +20,8 @@
 \usepackage{siunitx}
 \usepackage[printonlyused]{acronym}
 \usepackage{pdfpages}
+
+
 \hypersetup{
 	pdftitle={Bahnumrichter},
 	pdfauthor={[Names of co-authors (partners short names)]},
@@ -32,7 +35,7 @@
 %%% Definitions
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\input{defs}
+%\input{defs}
 
 % CHANGE %'s below to make subsection headings visible/invisible in TOC
 %\newcommand{\xsubsubsection}[1]{\subsection{#1}}
@@ -123,7 +126,7 @@
 %%% List of Abbreviations
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%\input{sections/abbreviations}
+\input{sections/abbreviations}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Deliverable Content
@@ -131,10 +134,7 @@
 
 \input{sections/allgemeines}
 \input{sections/konzept_vergleich}
-\input{sections/exploitation-dissemination}
-\input{sections/data-management}
-\input{sections/follow-up-reviews}
-\input{sections/deviations}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% References

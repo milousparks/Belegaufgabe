@@ -103,7 +103,8 @@
 \usepackage{csquotes} %wird von biber benötigt
 \usepackage[style=ieee, backend=biber, bibencoding=ascii]{biblatex}
 \addbibresource{references/references.bib}
-
+\usepackage{multirow}
+\usepackage{nicematrix}
 
 \newenvironment{conditions}[1][mit:]
 {#1 \begin{tabular}[t]{>{$}l<{$} @{${}={}$} l}}
@@ -122,3 +123,7 @@
 \usepackage{booktabs}
 \usepackage{caption}
 \usepackage{subcaption}
+
+\definecolor{gray}{RGB}{127,127,127}
+\definecolor{lightgray}{RGB}{219,219,219}
+\definecolor{lightergray}{RGB}{237,237,237}

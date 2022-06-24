@@ -1,33 +1,65 @@
-\section{Drehstromleistungsöltransformator $\mathbf{50\, Hz}$}
+\section{Stromrichtertransformator}
+
 \subsection{Normen}
 %\textbf{Normen}
 \begin{itemize}
     \item DIN VDE 0532-76-1: Leistungstransformatoren
-    \item DIN EN 61378-1 Stromrichtertransformatoren –
-    Teil 1: Transformatoren für industrielle Anwendungen
+    \item DIN EN 61378-1 Stromrichtertransformatoren - Teil 1: Transformatoren für industrielle Anwendungen
+    \item DIN EN 60076-3 Leistungstransformatoren Teil 3: Isolationspegel, Spannungsprüfungen und äußere Abstände in Luft
 \end{itemize}
 
-\textbf{Bemessungs Daten:}
+\textbf{Bemessungsdaten:}
+
+% \begin{table}[htb]
+%     \centering
+%     \begin{tabular}{|p{10cm}|p{2cm}|p{2cm}|}
+%         \hline
+%         \cellcolor{lightergray} & \cellcolor{white} OS & \cellcolor{white} US \\
+%          \multirow{-2}{10cm}{\textbf{Schaltgruppe}} & Y(N) &   i0i0i0  \\
+%         \hline
+%         \cellcolor{lightergray} \textbf{Nennleistung ohne Leistung der Filterwicklung}  &  & \\
+%         \hline
+%         \cellcolor{lightergray}   & Nennfrequenz &   \SI{50}{\Hz}  \\
+%         \hline
+%         \cellcolor{lightergray} Nennspannung OS (Klemmenspannung)  & Nennspannung OS (Klemmenspannung) &   \SI{50}{\Hz}  \\
+%     \end{tabular}
+% \end{table}
+
 
 \begin{table}[htb]
     \centering
-    \begin{tabular}{|p{10cm}|p{2cm}|p{2cm}|}
-        \hline
-        \cellcolor{lightergray} & \cellcolor{white} OS & \cellcolor{white} US \\
-         \multirow{-2}{10cm}{\cellcolor{lightgray}\textbf{Schaltgruppe}} & Y(N) &   i0i0i0  \\
-        \hline
-        \cellcolor{lightergray} \textbf{Nennleistung ohne Leistung der Filterwicklung}  &  & \\
-        \hline
-        \cellcolor{lightergray}   & Nennfrequenz &   \SI{50}{\Hz}  \\
-        \hline
-        \cellcolor{lightergray} Nennspannung OS (Klemmenspannung)  & Nennspannung OS (Klemmenspannung) &   \SI{50}{\Hz}  \\
-    \end{tabular}
-\end{table}
-\begin{table}
-    \begin{NiceTabular}{lcc}[hvlines]
-        
-        \Block{2-1}{Schaltgruppe} & OS & US \\ 
+    \begin{NiceTabular}{|l|p{2cm}|p{2cm}|}[hvlines]
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+       \Block{2-1}{Schaltgruppe} & OS & US \\ 
                                 & Y(N) &   i0i0i0  \\
+         Nennleistung ohne Leistung der Filterwicklung & \Block{1-2}{$\SI{20}{\unit{\mega\volt\ampere}}$}\\
+         Nennspannung OS (Klemmenspannung) & \Block{1-2}{$\SI{110}{\kV}$}\\
+         Max. Spannung OS (Klemmenspannung) & \Block{1-2}{$\SI{123}{\kV}$}\\
+         Nennspannung US (Klemmenspannung) & \Block{1-2}{$\SI{3536}{\V}$}\\
+         Nennstrom der US bei Nennspannung & \Block{1-2}{$\SI{1.885}{\kilo\ampere}$}\\
+    \end{NiceTabular}
+\end{table}
+
+\textbf{Relative Kurzschlussspannungen:}
+\begin{itemize}
+    \item Bezugsgrößen: \\ bezogen auf Nennleistung bei $\SI{75}{\degree}$C; eine US Wicklung kurzgeschlossen; alle anderen Wicklungen offen; Speisung in OS Wicklung
+    \item Werte \\ $uk_\mathrm{OS_iUS_i}\mathrm{(mit\,i=1...3)}=20\% (20.9\%...23.1\%)$; bezogen auf Nennleistung\\ $uk_\mathrm{US-US}>22\%$ (für alle Paarungen)
+\end{itemize}
+
+
+\textbf{Isolation (nach Prüfungsnorm in \cite*{DINEN600763VDE0532763:201903.}):}
+\begin{table} [htb]
+    \centering
+    \begin{NiceTabular}{|l|c|c|}[hvlines]
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+             & OS & US gegen Erde \\ 
+           max. Betriebsspannung  & $\SI{123}{\kilo\volt}$ &  $\SI{7.2}{\kilo\volt}$ \\
+         Nennstehwechselspannung & \SI{185}{\kilo\volt}-\SI{230}{\kilo\volt}& \SI{20}{\kilo\volt} \\
+         Nennstehblitzspannung & \SI{450}{\kilo\volt}-\SI{550}{\kilo\volt}&\SI{40}{\kilo\volt}-\SI{60}{\kilo\volt}\\
     \end{NiceTabular}
 \end{table}
 

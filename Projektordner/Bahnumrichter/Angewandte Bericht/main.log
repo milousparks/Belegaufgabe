@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  23 JUN 2022 14:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  24 JUN 2022 22:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1874,43 +1874,6 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 52.
  [2
 
 ] (./chapter/stromrichter.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 1.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 1.95871pt
-(hyperref)                removed on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Overfull \hbox (12.5618pt too wide) in paragraph at lines 21--21
-[]|\T1/lmr/m/n/12 (-10) Nennfrequenz| 
- []
-
-
-Overfull \hbox (18.11755pt too wide) in paragraph at lines 23--23
-[]|\T1/lmr/m/n/12 (-10) Nennspannung
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-\T1/lmr/m/n/12 (+10) men-span-
- []
-
 \g__nicematrix_max_cell_width_dim=\dimen390
 \c@iRow=\count587
 \c@jCol=\count588
@@ -1925,6 +1888,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 \g__nicematrix_ht_last_row_dim=\dimen397
 \g__nicematrix_dp_last_row_dim=\dimen398
 \g__nicematrix_block_box_1_box=\box151
+\g__nicematrix_block_box_2_box=\box152
+\g__nicematrix_block_box_3_box=\box153
+\g__nicematrix_block_box_4_box=\box154
+\g__nicematrix_block_box_5_box=\box155
+\g__nicematrix_block_box_6_box=\box156
 \g__nicematrix_ddots_int=\count589
 \g__nicematrix_iddots_int=\count590
 \g__nicematrix_delta_x_one_dim=\dimen399
@@ -1941,6 +1909,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 Package cleveref Info: loaded `ngerman' language definitions on input line 53.
  [3
 
+] (./chapter/berechnungen.tex)
+Package cleveref Info: loaded `ngerman' language definitions on input line 54.
+ [4
+
 ]
 \@gls@deffile=\write13
 \openout13 = `main.glsdefs'.
@@ -1956,13 +1928,13 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 61.
  [1
 
 ]
+Package cleveref Info: loaded `ngerman' language definitions on input line 77.
+ [2
 
-LaTeX Warning: Empty bibliography on input line 77.
-
-(./chapter/Anhang.tex
+] (./chapter/Anhang.tex
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=96, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=114, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf>
 Package pdftex.def Info: Bilder/cad.pdf  used on input line 3.
@@ -1980,7 +1952,7 @@ pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF versi
 
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=99, page=1, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=117, page=1, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 1>
 Package pdftex.def Info: Bilder/cad.pdf , page1 used on input line 3.
@@ -1990,7 +1962,7 @@ File: Bilder/cad.pdf Graphic file (type pdf)
 Package pdftex.def Info: Bilder/cad.pdf , page1 used on input line 3.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
 Package cleveref Info: loaded `ngerman' language definitions on input line 3.
-[2
+[3
 
 ]
 File: Bilder/cad.pdf Graphic file (type pdf)
@@ -2005,10 +1977,10 @@ File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 1>
 Package pdftex.def Info: Bilder/cad.pdf , page1 used on input line 3.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
- [3 <./Bilder/cad.pdf, page is rotated 90 degrees>]
+ [4 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=147, page=2, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=164, page=2, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 2>
 Package pdftex.def Info: Bilder/cad.pdf , page2 used on input line 3.
@@ -2020,43 +1992,43 @@ Package pdftex.def Info: Bilder/cad.pdf , page2 used on input line 3.
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 2>
 Package pdftex.def Info: Bilder/cad.pdf , page2 used on input line 3.
-(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-[4 <./Bilder/cad.pdf, page is rotated 90 degrees>]
-
-pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=152, page=3, 794.97pt x 614.295pt>
-File: Bilder/cad.pdf Graphic file (type pdf)
-<use Bilder/cad.pdf, page 3>
-Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 3.
-(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-File: Bilder/cad.pdf Graphic file (type pdf)
-<use Bilder/cad.pdf, page 3>
-Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 3.
-(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-File: Bilder/cad.pdf Graphic file (type pdf)
-<use Bilder/cad.pdf, page 3>
-Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 3.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
 [5 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=157, page=4, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=169, page=3, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
-<use Bilder/cad.pdf, page 4>
-Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 3.
+<use Bilder/cad.pdf, page 3>
+Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 3.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
 File: Bilder/cad.pdf Graphic file (type pdf)
-<use Bilder/cad.pdf, page 4>
-Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 3.
+<use Bilder/cad.pdf, page 3>
+Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 3.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
 File: Bilder/cad.pdf Graphic file (type pdf)
-<use Bilder/cad.pdf, page 4>
-Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 3.
+<use Bilder/cad.pdf, page 3>
+Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 3.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
 [6 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=162, page=5, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=174, page=4, 794.97pt x 614.295pt>
+File: Bilder/cad.pdf Graphic file (type pdf)
+<use Bilder/cad.pdf, page 4>
+Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
+File: Bilder/cad.pdf Graphic file (type pdf)
+<use Bilder/cad.pdf, page 4>
+Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
+File: Bilder/cad.pdf Graphic file (type pdf)
+<use Bilder/cad.pdf, page 4>
+Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 3.
+(pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
+[7 <./Bilder/cad.pdf, page is rotated 90 degrees>]
+
+pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Bilder/cad.pdf, id=180, page=5, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 5>
 Package pdftex.def Info: Bilder/cad.pdf , page5 used on input line 3.
@@ -2069,7 +2041,7 @@ File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 5>
 Package pdftex.def Info: Bilder/cad.pdf , page5 used on input line 3.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-[7 <./Bilder/cad.pdf, page is rotated 90 degrees>])
+[8 <./Bilder/cad.pdf, page is rotated 90 degrees>])
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
@@ -2085,18 +2057,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 70433 strings out of 478238
- 1650571 string characters out of 5850456
- 2685360 words of memory out of 5000000
- 87477 multiletter control sequences out of 15000+600000
- 533947 words of font info for 108 fonts, out of 8000000 for 9000
+ 71243 strings out of 478238
+ 1667958 string characters out of 5850456
+ 2721038 words of memory out of 5000000
+ 88305 multiletter control sequences out of 15000+600000
+ 515383 words of font info for 87 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 113i,21n,109p,10836b,2469s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (12 pages, 543377 bytes).
+ 113i,22n,109p,10836b,2469s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (14 pages, 593892 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
- 41215 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 28943 words of extra memory for PDF output out of 29859 (max. 10000000)
 

@@ -16,5 +16,30 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{DINEN600763VDE0532763:201903.}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9dc477d2463beac8730491d336deb4b7}{%
+           family={{DIN EN 60076-3 VDE 0532-76-3:2019-03}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9dc477d2463beac8730491d336deb4b7}
+      \strng{fullhash}{9dc477d2463beac8730491d336deb4b7}
+      \strng{bibnamehash}{9dc477d2463beac8730491d336deb4b7}
+      \strng{authorbibnamehash}{9dc477d2463beac8730491d336deb4b7}
+      \strng{authornamehash}{9dc477d2463beac8730491d336deb4b7}
+      \strng{authorfullhash}{9dc477d2463beac8730491d336deb4b7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2019-03}
+      \field{number}{60076-3}
+      \field{title}{Leistungstransformatoren: Teil 3: Isolationspegel, Spannungsprüfungen und äu{ß}ere Abstände in Luft}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

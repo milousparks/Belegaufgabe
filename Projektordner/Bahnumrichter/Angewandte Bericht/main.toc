@@ -1,10 +1,12 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Allgemeine Projekt Beschreibung}{1}{section.1}%
 \contentsline {section}{\numberline {2}Konzeptvergleich: Bahnumrichteranlagen}{2}{section.2}%
-\contentsline {section}{\numberline {3}Stromrichtertransformator}{3}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Normen}{3}{subsection.3.1}%
-\contentsline {section}{\numberline {4}Berechnungen}{4}{section.4}%
-\contentsline {section}{\nonumberline Abbildungsverzeichnis}{A}{section*.4}%
-\contentsline {section}{\nonumberline Normen}{B}{section*.6}%
-\contentsline {section}{\numberline {A}Anhang}{C}{appendix.A}%
+\contentsline {section}{\numberline {3}Drehstrom-Leistungstransformator 50 Hz}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Allgemeine Merkmale}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Bemessungsdaten:}{4}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Einphasen-Stromrichteröltrafo 16.7 Hz}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Allgemeine Merkmale}{6}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Berechnungen}{8}{section.5}%
+\contentsline {section}{\nonumberline Normen}{A}{section*.11}%
+\contentsline {section}{\numberline {A}Anhang}{B}{appendix.A}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

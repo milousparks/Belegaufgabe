@@ -1,14 +1,50 @@
-\section{Stromrichtertransformator}
+\section{Drehstrom-Leistungstransformator 50 Hz}
+Der Transformator soll für die Aussenaufstellung ausgelegt werden und wird von 3 AC \SI[]{50}[]{\Hz}, \SI[]{110}[]{\kilo\volt} gespeist.
+Der Transformator soll ölgefullt und selbstkühlend sein.\\ 
 
-\subsection{Normen}
-%\textbf{Normen}
+\textbf{Schaltbild}
+\begin{figure}[htb]
+\centering
+\includegraphics[width=\textwidth/2]{Bilder/netztrafo.png}
+\end{figure}
+
+\subsection{Allgemeine Merkmale}
+
+\begin{table}[htb]
+    \centering
+    \begin{NiceTabular}{|l|c|}[]
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+        \hline
+         Aufstellung & Freiluftaufstellung\\
+         \hline
+         Verschmutzung & Verschmutzungsgrad III (stark) \\
+         \hline
+         Aufstellungshöhe & < 1000 m üNN\\
+         \hline
+         Umgebungstemperatur &  -30°C bis 40°C\\
+         \hline
+         Klimabedingungen & Normal\\ 
+         \hline
+                 \Block{3-1}{Dokumentationen} &  \tabitem Technische Zeichnungen und CAD\\
+                         &\tabitem Montageplan, Wartungsplan, Dokumentationen\\
+                         &\tabitem Prüfprotokoll der zu erfüllenden Prüfungen\\
+            \hline
+    \end{NiceTabular}
+\end{table}
+
+
+%\subsection{Normen}
+\textbf{Normen}
 \begin{itemize}
     \item DIN VDE 0532-76-1: Leistungstransformatoren
     \item DIN EN 61378-1 Stromrichtertransformatoren - Teil 1: Transformatoren für industrielle Anwendungen
     \item DIN EN 60076-3 Leistungstransformatoren Teil 3: Isolationspegel, Spannungsprüfungen und äußere Abstände in Luft
 \end{itemize}
 
-\textbf{Bemessungsdaten:}
+
+\subsection{Bemessungsdaten:}
 
 % \begin{table}[htb]
 %     \centering
@@ -58,9 +94,17 @@
         \Body
              & OS & US gegen Erde \\ 
            max. Betriebsspannung  & $\SI{123}{\kilo\volt}$ &  $\SI{7.2}{\kilo\volt}$ \\
-         Nennstehwechselspannung & \SI{185}{\kilo\volt}-\SI{230}{\kilo\volt}& \SI{20}{\kilo\volt} \\
-         Nennstehblitzspannung & \SI{450}{\kilo\volt}-\SI{550}{\kilo\volt}&\SI{40}{\kilo\volt}-\SI{60}{\kilo\volt}\\
+         Nennstehwechselspannung & $U_1=$\SI{185}{\kilo\volt}; $U_2=$\SI{230}{\kilo\volt}& \SI{20}{\kilo\volt} \\
+         Nennstehblitzspannung & $U_1=$\SI{450}{\kilo\volt}; $U_2=$\SI{550}{\kilo\volt}&$U_1=$\SI{40}{\kilo\volt}; $U_2=$\SI{60}{\kilo\volt}\\
     \end{NiceTabular}
 \end{table}
 
-    
+\textbf{Sternpunktausführung}\\
+Der Sternpunkt OS ist aus der Wicklung herauszuführen und eine spätere Verwendung vorzubereiten. Durchführung und Isolator sind nicht erforderlich, der Sternpunkt kann blind verflanscht werden. 
+
+\textbf{Kapazitive Kopplung}\\
+Eine kapazitive Übertragung von Blitzüberspannungen von der OS-Wicklung auf die US-Wicklung ist zu vermeiden. Bisherige Transformatoren in Bahnkupplungen hatten zu diesem Zweck Schirmwicklungen. 
+ 
+\textbf{Geräuschpegel}\\
+Aufstellungsort: Allgemeines Wohngebiet gemäß § 1 BImSchG  $L_\mathrm{pmax}=40 dB(A)$.
+Grenzwert darf im Fernfeld(5m) mit Messung nach DIN EN 60076-10\cite*{DINEN6007610.10:2001} nicht überschritten werden.

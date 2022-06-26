@@ -1,0 +1,142 @@
+\section{Anforderungen an 50Hz und 16,7 Hz-Transformatoren}
+
+\subsubsection*{ALlgemiene Technische Anforderungen}
+\begin{table}[htb]
+    \centering
+    \begin{NiceTabular}{|l|p{8cm}|}[]
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+        \hline
+         Aufstellung & Freiluftaufstellung\\
+         \hline
+         Verschmutzung & Verschmutzungsgrad III (stark) \\
+         \hline
+         Aufstellungshöhe & < 1000 m üNN\\
+         \hline
+         Umgebungstemperatur &  -30°C bis 40°C\\
+         \hline
+         Klimabedingungen & Normal gem. VDE 0532(IEC76-1)für Freiluftaufstellung\\ 
+         \hline
+                 \Block{3-1}{Dokumentationen} &  \tabitem Technische Zeichnungen und CAD\\
+                         &\tabitem Montageplan, Wartungsplan, Dokumentationen\\
+                         &\tabitem Prüfprotokoll der zu erfüllenden Prüfungen\\
+                         \hline
+                         maximale Kühlmitteltemperatur &  \ang{40}C\\
+                         \hline
+                         mittl. Wicklungsübertemperatur & \SI{65}{\kelvin} bei Nennleistung\\
+                         \hline
+                         Übertemperatur Öl oben & \SI{60}{\kelvin}\\
+            \hline
+            Schalldruckpegel Mittelwert; in 1m Abstand
+    \end{NiceTabular}
+\end{table}
+
+\subsubsection*{Kühlung}
+
+Kühlung: ONAN; 
+ONAF vorbereitet (an den Kühlern wird eine Halterung vorgesehen, an der geeignete Lüfter installiert werden können; keine Leistungssteigerung)
+\begin{table}[htb]
+    \centering
+    \begin{NiceTabular}{|l|c|p{5cm}|}
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+        \hline
+        Kühlungsvariante &Innerer Kühlkreislauf &Äußerer Kühlkreislauf \\
+        \hline
+            ONAN& natürliche Konvektion Öl (Oil Natural)& natürliche Konvektion Umgebungsluft und Wärmestrahlung der Oberfläche (Air Natural)\\
+            \hline
+            ONAF& natürliche Konvektion Öl (Oil Natural)& erzwungene Konvektion Umgebungsluft und Wärmestrahlung der Oberfläche (Air Forced) \\
+            \hline
+    \end{NiceTabular}
+\end{table}
+\subsubsection*{Blechqualität}
+durch Hersteller festzulegen
+\subsubsection*{Induktion}
+bei Nennleerlaufspannung:	$B=\SI[]{1.6}[]{\tesla}$\\
+Sättigungskennlinie ist zu liefern
+
+\subsubsection*{Halterungen für eine Traverse für die Kabel zum Umrichter}
+Am Transformatorkessel soll  eine Traverse montiert werden, auf der die Kabel zum Umrichter verlegt werden.
+
+\subsubsection*{Angaben zur Betriebsweisen}
+\begin{itemize}
+    \item Beide Transformatoren werden im gesamten Bereich $cos(\phi)=0.8\ldots-0.8$ betrieben. Die Transformatoren können sowohl mit gleichförmiger als auch mit stark wechselnder Last beaufschlagt werden (z.B. häufiges Anfahren und Bremsen von Schienenfahrzeugen).
+    \item  Die Transformatoren sind über Vakuum Schnellschalter mit dem 110kV 50 Hz bzw. 16,7 Hz Netz verbunden. Die Verbindung kann dabei sowohl über eine Freileitung als auch ein Kabel erfolgen. 
+    Im Normalfall werden die Transformatoren nur lastlos abgeschaltet. Schutzabschaltungen können unter Volllast vorkommen und dürfen nicht zu einer Beschädigung der Wicklungen führen. 
+    \item Transformator kann über Schnellschalter mit den angeschlossenen Lasten verbunden werden. 
+    \item  Betriebsweise 16,7Hz 110kV Netz: Das Netz wird mit Resonanter Sternpunkterdung betrieben. 
+    \item  Kurzschlüsse in den angeschlossenen Netzen können betrieblich vorkommen. 
+
+\end{itemize}
+
+\subsubsection*{Kessel}
+\begin{itemize}
+    \item Vakuumfeste und öldichte Ausführung (mit Nachweis)
+    \item Wandstärke Kessel : bitte angeben	Erfahrungswert : mind. \SI[]{8}[]{\mm}
+    \item Wandstärke Boden und Deckel : bitte angeben	Erfahrungswert: mind. \SI[]{10}[]{\mm}
+    \item Ausführung als Kasten mit Deckel
+    \item Umsetzbares Fahrgestell mit 4 Einfachrollen (einzeln umsetzbar)
+    \item Die Lage des Ausdehnungsgefäßes ist gem. den örtlichen Gegebenheiten abzustimmen.
+\end{itemize}
+\subsubsection*{Kesselzubehör}
+\begin{itemize}
+    \item Ölausdehnungsgefäß mit Luftentfeuchter, Ölstandsanzeiger, Absperr- und Entleerungshahn
+    \item Anschlussschieber für eine Ölreinigungsanlage (NW 80)
+    \item Ölablasshähne für Probeentnahme (oben, mittig, unten)
+    \item Ölablassschieber NW 65
+    \item Restölablass
+    \item Ansatzstellen für hydraulische Hebeböcke in 420 mm Höhe der Ladefläche
+    \item Zugösen für alle 4 Fahrtrichtungen
+    \item Kranösen
+    \item Erdungsschrauben
+    \item Sicherheitseinrichtung für das Arbeiten auf dem Deckel
+\end{itemize}
+\subsubsection*{Ausführung Isolation zwischen Spurkranzrollen  und Kessel}
+Die Spurkranzrollen sind zum Kessel hin isoliert anzubringen.
+ Bei einer Messspannung von \SI[]{1}[]{\kV} muss der Widerstandswert mindestens \SI[]{10}[]{\mega\ohm} betragen.
+ Die Isolierung ist über die gesamte Lebensdauer des Transformators zu gewährleisten. 
+\subsubsection*{Kabeltrassen}
+Sofern vorhanden sollen am Transformatorkessel Auflagerpunkte für die Kabeltrassen zum Umrichter vorgesehen werden. Auflagerpunke sind Lieferumfang, Kabeltrassen sind nicht Lieferumfang
+
+\subsubsection*{Fahrgestelle}
+Die Bodenfreiheit tragender Teile muss mind. 50 mm über SO liegen. Für die Spurkranzrollen wird eine Feststellvorrichtung bei Aufstellung auf dem Fundament vorgesehen. Korrosionsschutz nach DIN 55928 T 1 - 8.
+
+\subsubsection*{Verzinkung}
+Siehe Anlage, Spezifikation der DB AG
+\subsubsection*{Beschichtungsaufbau}
+Siehe Anlage, Spezifikation der DB AG
+\subsubsection*{Überwachungseinrichtungen}
+\begin{itemize}
+    \item Buchholz-Zweischwimmerrelais für den Kessel mit Warnung und Auslösung 2x(Ö+S)
+    \item Luftentfeuchter für den Kessel
+    \item Wicklungstempperaturanzeige mit Meßumformer (4...20mA)  mit Warnung und Auslösung 2x(Ö+S)
+    \item Ölstandsmelder mit Min./Max.-Kontakt Ö+S
+    \item Öltemperaturanzeige  (4...20mA)  und mit Auslösekontakt Ö+S
+    \item Thermometertaschen an verschiedenen Stellen des Deckels
+    \item Druckentlastungsventile mit Meldekontakt Ö+S
+    \item Stromrelais für Kesselschutz und Meldekontakte 2x(Ö+S)
+\end{itemize}
+
+\subsubsection*{Kesselschutz / Erdung}
+Der Erdungsanschlusspunkt und der Kesselschutzwandler soll in unmittelbarer Nähe zum Klemmkasten angeordnet sein. Anlagenseitig wird das Erdungskabel durch den am Trafo montierten Wandler geführt und am Erdungspunkt angeschlossen. 
+
+\subsubsection*{Anschlusskasten }
+Die Verdrahtung der Schutz- und Überwachungsgeräte des Transformators muss geschützt verlegt und in einem spritzwassergeschützten Anschlusskasten IP54 eingeführt werden. Die Gerätebestückung sowie die Anschlussklemmleiste soll den Vorschriften der Deutschen Bahn entsprechen. Die Lage des Kastens ist abzustimmen. Isolierer Aufbau gegenüber dem Kessel.
+Ausführungsbeispiel Klemmkasten der DB siehe Anhang.
+\subsubsection*{Isolieröl}
+Alterungsbeständiges Neuöl, mindestens entsprechend VDE 0370. Das verwendete Öl darf beim Alterungstest nach Baader, DIN 51 554, abgewandelt (110°C, Luft, Cu, 28d) folgende Grenzwerte nicht überschreiten:
+Das Trafoöl muss PCB und Chlorfrei sein. Das zugehörige EG-Sicherheitsdatenblatt ist beizulegen.
+
+Typ:	 SHELL-Diala-DX (bevorzugt) oder Nytro Lyra X 
+
+\subsubsection*{Lebensdauer}
+Die deutsche Bahn erwartet für alle Komponenten der Umrichteranlage eine Lebensdauer von >20 Jahren. Angaben zur lastabhängigen Lebensdauer des Transformators sind zu machen. 
+
+\subsubsection*{Schallschutz}
+Zusatzmaßnahmen zum Schallschutz (z.B. Gummieinlagen, Schenkel lackieren) sind einzubringen
+
+\subsubsection*{Normen}
+Ausführung und Prüfung des Transformators nach DIN VDE 0532 /IEC76 
+\subsubsection*{Prüfungen gemäß DIN VDE 0532- 76-1/ IEC 76}

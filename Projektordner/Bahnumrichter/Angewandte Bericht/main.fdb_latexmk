@@ -1,18 +1,18 @@
 # Fdb version 3
-["biber main"] 1656498700 "main.bcf" "main.bbl" "main" 1656498711
-  "main.bcf" 1656498711 106830 f52a6d210d075da558f279dda2e05ace "pdflatex"
+["biber main"] 1656500062 "main.bcf" "main.bbl" "main" 1656500142
+  "main.bcf" 1656500142 106830 f52a6d210d075da558f279dda2e05ace "pdflatex"
   "references/references.bib" 1656361157 3138 2568b58f2ec4943ba7000ba868a39f06 ""
   (generated)
   "main.bbl"
   "main.blg"
-["makeindex main.idx"] 1656498700 "main.idx" "main.ind" "main" 1656498711
+["makeindex main.idx"] 1656500062 "main.idx" "main.ind" "main" 1656500142
   "main.idx" 0 -1 0 "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
-["pdflatex"] 1656498707 "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex" "main.pdf" "main" 1656498711
+["pdflatex"] 1656500138 "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex" "main.pdf" "main" 1656500142
   "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS" 1655819395 262 196bd071b716edebe61677e62c63352f ""
-  "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex" 1656494132 2406 6d5cbc1d3a95930b86aedf33eb2c0d29 ""
+  "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex" 1656499876 2479 9d08514c6e333d571a5b80783e5266c8 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1650183167 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1650183167 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1650183167 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -387,8 +387,6 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1655579985 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1655579981 2927666 fcb8cceeb3e25c100fa6f5d54f80144f ""
-  "Bilder/FB1_ET_rgb.jpg" 1655806722 109968 cf97abc0fff298232d81c7e09d3736ad ""
-  "Bilder/HTW_Logo_rgb.jpg" 1655806722 78789 9eb8b1e4f1dc948d1d293b5ed87a9208 ""
   "Bilder/cad.pdf" 1655588136 200247 76744e6f4a2aa78a2409b2fa3db59ec1 ""
   "Bilder/netztrafo.png" 1655843707 31550 7efec4b64048d89ba4ca1baf82eeb6cf ""
   "Bilder/oberschwingungsamp_umrichterseite.png" 1656266738 105982 306e1a6e929a8709553ca5fd4dc60ae7 ""
@@ -404,19 +402,20 @@
   "chapter/stromrichtertrafo.tex" 1656362108 5036 749b0b5ba1ba2dc4fd068e02f774cbd3 ""
   "chapter/trafo_allgemeine_anforderungen.tex" 1656363136 11130 0767e6a9f120d926b9b3183f1f96b96b ""
   "chapter/umrichter.tex" 1656498700 2368 b2055ed49940400df92c6276b2eb6922 ""
-  "main.aux" 1656498710 52038 f1c49e6be82e501a9a94212f85559be7 "pdflatex"
-  "main.bbl" 1656498701 3285 ac8872c8ec48e3579424141408f9bac9 "biber main"
-  "main.glsdefs" 1656498711 500 9afefce84d3c9b536541d41c99df62c9 "pdflatex"
+  "main.aux" 1656500142 52038 f3b90890821ea623f3ae62a09815bdf3 "pdflatex"
+  "main.bbl" 1656500062 3285 ac8872c8ec48e3579424141408f9bac9 "biber main"
+  "main.glsdefs" 1656500142 500 9afefce84d3c9b536541d41c99df62c9 "pdflatex"
   "main.ind" 0 -1 0 "makeindex main.idx"
   "main.out" 0 -1 0 "pdflatex"
-  "main.run.xml" 1656498711 2443 31ca88bf6d09c1fa31571e2c1f22f07f "pdflatex"
-  "main.tex" 1656494132 2406 6d5cbc1d3a95930b86aedf33eb2c0d29 ""
-  "main.toc" 1656498711 2056 96b6d4df3caf3837121ebac1335e8f5e "pdflatex"
+  "main.run.xml" 1656500142 2443 31ca88bf6d09c1fa31571e2c1f22f07f "pdflatex"
+  "main.tex" 1656499876 2479 9d08514c6e333d571a5b80783e5266c8 ""
+  "main.toc" 1656500142 2056 4a006f2b9d428c3d27209a23f85354bd "pdflatex"
   "references/glossary_acronyms.tex" 1655824373 1 68b329da9893e34099c7d8ad5cb9c940 ""
-  "resources/settings/settings.tex" 1656355242 4016 65d4152558e2a1ad0e5d25a1f714a657 ""
+  "resources/settings/settings.tex" 1656499993 4016 c7ca93c65577d8ee7e3db3990ea4d017 ""
   "resources/styles/adjustments.tex" 1655806720 1253 8a800068fd477d1686f3a2740f77ea74 ""
-  "resources/styles/header_footer.tex" 1656494132 158 3f12a54e90f9ec5e83aa7e566f07b5f2 ""
-  "titles/graduation.tex" 1655806720 1417 eddf50e0a837e8025ad8a8dab10403f7 ""
+  "resources/styles/header_footer.tex" 1656500138 189 1f0275436613d8d371f5b8e91ab01cb1 ""
+  "titles/research_paper.tex" 1656499914 1014 2faef3323276054741aad5b1f337cac3 ""
+  "titles/research_papger" 0 -1 0 ""
   (generated)
   "main.acn"
   "main.aux"

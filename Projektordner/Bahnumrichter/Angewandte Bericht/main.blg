@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[37] biber:340> INFO - === Mi Jun 29, 2022, 12:31:40
-[44] Biber.pm:418> INFO - Reading 'main.bcf'
-[81] Biber.pm:972> INFO - Found 3 citekeys in bib section 0
-[88] Biber.pm:4383> INFO - Processing section 0
-[93] Biber.pm:4574> INFO - Looking for bibtex file 'references/references.bib' for section 0
-[93] bibtex.pm:1668> INFO - Reading ascii input as UTF-8
-[94] bibtex.pm:1713> INFO - LaTeX decoding ...
-[99] bibtex.pm:1518> INFO - Found BibTeX data source 'references/references.bib'
-[122] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[122] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[122] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[122] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
-[123] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[124] bbl.pm:757> INFO - Output to main.bbl
-[124] Biber.pm:130> WARN - legacy year field '2008-02' in entry 'DeutschesInstitutfurNormungene.V..200802' is not an integer - this will probably not sort properly.
-[124] Biber.pm:132> INFO - WARNINGS: 1
+[39] biber:340> INFO - === Mi Jun 29, 2022, 12:54:22
+[46] Biber.pm:418> INFO - Reading 'main.bcf'
+[83] Biber.pm:972> INFO - Found 3 citekeys in bib section 0
+[90] Biber.pm:4383> INFO - Processing section 0
+[96] Biber.pm:4574> INFO - Looking for bibtex file 'references/references.bib' for section 0
+[96] bibtex.pm:1668> INFO - Reading ascii input as UTF-8
+[97] bibtex.pm:1713> INFO - LaTeX decoding ...
+[102] bibtex.pm:1518> INFO - Found BibTeX data source 'references/references.bib'
+[126] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[126] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[126] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[126] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
+[127] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[128] bbl.pm:757> INFO - Output to main.bbl
+[128] Biber.pm:130> WARN - legacy year field '2008-02' in entry 'DeutschesInstitutfurNormungene.V..200802' is not an integer - this will probably not sort properly.
+[128] Biber.pm:132> INFO - WARNINGS: 1

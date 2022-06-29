@@ -1,16 +1,16 @@
 # Fdb version 3
-["biber main"] 1656500062 "main.bcf" "main.bbl" "main" 1656500142
-  "main.bcf" 1656500142 106830 f52a6d210d075da558f279dda2e05ace "pdflatex"
+["biber main"] 1656540207 "main.bcf" "main.bbl" "main" 1656540219
+  "main.bcf" 1656540219 106830 f52a6d210d075da558f279dda2e05ace "pdflatex"
   "references/references.bib" 1656361157 3138 2568b58f2ec4943ba7000ba868a39f06 ""
   (generated)
   "main.bbl"
   "main.blg"
-["makeindex main.idx"] 1656500062 "main.idx" "main.ind" "main" 1656500142
+["makeindex main.idx"] 1656540207 "main.idx" "main.ind" "main" 1656540219
   "main.idx" 0 -1 0 "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
-["pdflatex"] 1656500138 "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex" "main.pdf" "main" 1656500142
+["pdflatex"] 1656540215 "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex" "main.pdf" "main" 1656540219
   "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS" 1655819395 262 196bd071b716edebe61677e62c63352f ""
   "/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex" 1656499876 2479 9d08514c6e333d571a5b80783e5266c8 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1650183167 2375 baa924870cfb487815765f9094cf3728 ""
@@ -397,19 +397,19 @@
   "chapter/Anhang.tex" 1656425756 6753 898a97194f2a08a743ae68dcae06eeb5 ""
   "chapter/Einleitung.tex" 1655826627 1056 3087945a74e0f76389cc42dfe584d67a ""
   "chapter/berechnungen.tex" 1656091290 223 5607d4d8eee4fde9a694a3cc4363c31f ""
-  "chapter/drehstromtrafo.tex" 1656429098 4058 4a317cb2442bb901a1d7b519030e9fad ""
-  "chapter/kozeptvergleich.tex" 1655838730 2473 f6083da1408f655716ecd65f279378d6 ""
-  "chapter/stromrichtertrafo.tex" 1656362108 5036 749b0b5ba1ba2dc4fd068e02f774cbd3 ""
+  "chapter/drehstromtrafo.tex" 1656540105 5293 dfb8f18d9f8fdadc82624c9662c222ad ""
+  "chapter/kozeptvergleich.tex" 1656534628 2594 b592101dcb9278a7eb3ffdd5b25a0c07 ""
+  "chapter/stromrichtertrafo.tex" 1656540207 5895 b01547c32bdbbfdccf75e52dbb624b25 ""
   "chapter/trafo_allgemeine_anforderungen.tex" 1656363136 11130 0767e6a9f120d926b9b3183f1f96b96b ""
   "chapter/umrichter.tex" 1656498700 2368 b2055ed49940400df92c6276b2eb6922 ""
-  "main.aux" 1656500142 52038 f3b90890821ea623f3ae62a09815bdf3 "pdflatex"
-  "main.bbl" 1656500062 3285 ac8872c8ec48e3579424141408f9bac9 "biber main"
-  "main.glsdefs" 1656500142 500 9afefce84d3c9b536541d41c99df62c9 "pdflatex"
+  "main.aux" 1656540219 60596 6a3d0ced0f77c3c0c9a3228ac9c23f08 "pdflatex"
+  "main.bbl" 1656540208 3285 ac8872c8ec48e3579424141408f9bac9 "biber main"
+  "main.glsdefs" 1656540219 500 9afefce84d3c9b536541d41c99df62c9 "pdflatex"
   "main.ind" 0 -1 0 "makeindex main.idx"
   "main.out" 0 -1 0 "pdflatex"
-  "main.run.xml" 1656500142 2443 31ca88bf6d09c1fa31571e2c1f22f07f "pdflatex"
+  "main.run.xml" 1656540219 2443 31ca88bf6d09c1fa31571e2c1f22f07f "pdflatex"
   "main.tex" 1656499876 2479 9d08514c6e333d571a5b80783e5266c8 ""
-  "main.toc" 1656500142 2056 4a006f2b9d428c3d27209a23f85354bd "pdflatex"
+  "main.toc" 1656540219 2057 20e1878f85fe418a1d199c94ab85f5c8 "pdflatex"
   "references/glossary_acronyms.tex" 1655824373 1 68b329da9893e34099c7d8ad5cb9c940 ""
   "resources/settings/settings.tex" 1656499993 4016 c7ca93c65577d8ee7e3db3990ea4d017 ""
   "resources/styles/adjustments.tex" 1655806720 1253 8a800068fd477d1686f3a2740f77ea74 ""

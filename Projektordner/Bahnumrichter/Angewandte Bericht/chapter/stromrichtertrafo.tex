@@ -29,14 +29,18 @@ Teilspannungen der Umrichter auf die Bahnspannung 2 AC
     \end{NiceTabular}
 \end{table}
 
-\textbf{Normen:}
-
+\subsubsection*{Normen}
+\begin{itemize}[noitemsep]
+    \item DIN VDE 0532-76-1: Leistungstransformatoren
+    \item DIN EN 61378-1 Stromrichtertransformatoren - Teil 1: Transformatoren für industrielle Anwendungen
+    \item DIN EN 60076-3 Leistungstransformatoren Teil 3: Isolationspegel, Spannungsprüfungen und äußere Abstände in Luft
+\end{itemize}
 \subsubsection*{Schaltbild}
 \begin{figure}[htb]
 \centering
 \includegraphics[width=\textwidth/3,frame]{Bilder/stromrichtertrafo.png}
 \end{figure}
-
+\clearpage
 \subsection{Bemessungsdaten:}
 \begin{table}[htb]
     \centering
@@ -72,9 +76,9 @@ Teilspannungen der Umrichter auf die Bahnspannung 2 AC
 \end{table}
 
 \subsubsection*{Verluste}
-\begin{table}[htb]
+\begin{table}[h]
     \centering
-    \begin{NiceTabular}{|l|c|c|}[hvlines]
+    \begin{NiceTabular}{|p{5cm}|c|c|}[hvlines]
         \CodeBefore
         \columncolor{lightergray}{1}
         \Body
@@ -88,10 +92,11 @@ Teilspannungen der Umrichter auf die Bahnspannung 2 AC
 Die Blitzstoß- so wie die angelegte Stehwechselspannungsprüfung (ACSD)  muss als Stückprüung nach DIN EN 60076-3\cite*{DINEN600763VDE0532763:201903.} für alle Wicklungen des Transformators durchgeführt werden.
 \begin{table}[htb]
     \centering
-    \begin{NiceTabular}{|l|c|c|c|}[]
+    \begin{NiceTabular}{|p{5cm}|c|c|c|}[]
         \CodeBefore
         \columncolor{lightergray}{1}
         \Body
+        \hline
         &OS&US&FW\\
         \hline
        max. Betriebsspannung Leiter gegen Erde  &  \SI{123}{\kilo\V} & \SI{17.5}{\kilo\V} & \SI{7.2}{\kilo\V}\\
@@ -110,10 +115,11 @@ Eine kapazitive Übertragung von Blitzüberspannungen von der OS-Wicklung auf di
 
 \begin{table}[htb]
     \centering
-    \begin{NiceTabular}{l|cccc}[]
+    \begin{NiceTabular}{|l|cccc|}[]
         \CodeBefore
         \columncolor{lightergray}{1}
         \Body
+        \hline
         &&OS&US&FW\\
         \hline
             Anzahl der Durchführungen & Klemme&2&4x2&2\\
@@ -125,3 +131,19 @@ Eine kapazitive Übertragung von Blitzüberspannungen von der OS-Wicklung auf di
 Anschlusskabel Filter in einem Klemmkasten; 1 Kabel á  \SI{50}{\mm\squared} je  Anschluss  Filterwicklung
 
 \subsubsection*{Stromwandler}
+
+\begin{table}[htb]
+    \centering
+    \begin{NiceTabular}{|l|c|}[hvlines]
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+        \hline
+        4 Stromwandler  sekundärseitig & tbd/1A;15VA; 10P10 \\
+        1 Stromwandler  Filterseitig & tbd/1A;  15VA; 10P10 \\
+        1 Stromwandler primärseitig & tbd/1A;  15VA; 10P10 \\
+        1 Stromwandler Kesselschutz & tbd/1A;    3VA;  5P20 \\
+    \end{NiceTabular}
+\end{table}
+
+\subsubsection*{Kessel}

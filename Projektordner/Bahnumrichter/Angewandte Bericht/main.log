@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  26 JUN 2022 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  29 JUN 2022 12:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1587,6 +1587,14 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
 \c@subfigure=\count578
 \c@subtable=\count579
+) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip124
+\enit@outerparindent=\dimen402
+\enit@toks=\toks68
+\enit@inbox=\box150
+\enit@count@id=\count580
+\enitdp@description=\count581
 )) (./resources/styles/adjustments.tex (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ))
@@ -1699,21 +1707,21 @@ Package microtype Info: No adjustment of character kerning.
  (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-\c@lstlisting=\count580
+\c@lstlisting=\count582
 Package scrhack Info: undefining \float@addtolists on input line 33.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count581
-\scratchdimen=\dimen402
-\scratchbox=\box150
-\nofMPsegments=\count582
-\nofMParguments=\count583
-\everyMPshowfont=\toks68
-\MPscratchCnt=\count584
-\MPscratchDim=\dimen403
-\MPnumerator=\count585
-\makeMPintoPDFobject=\count586
-\everyMPtoPDFconversion=\toks69
+\scratchcounter=\count583
+\scratchdimen=\dimen403
+\scratchbox=\box151
+\nofMPsegments=\count584
+\nofMParguments=\count585
+\everyMPshowfont=\toks69
+\MPscratchCnt=\count586
+\MPscratchDim=\dimen404
+\MPnumerator=\count587
+\makeMPintoPDFobject=\count588
+\everyMPtoPDFconversion=\toks70
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1728,7 +1736,7 @@ Package scrhack Info: loading lscape hack on input line 77.
  (/usr/share/texmf-dist/tex/latex/koma-script/lscape.hak
 File: lscape.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package lscape)
 Package scrhack Info: \landscape patched to make \textheight change optional on input line 90.
-\scrh@LT@textheight=\skip124
+\scrh@LT@textheight=\skip125
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
@@ -1744,7 +1752,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count587
+\c@section@level=\count589
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
@@ -1765,7 +1773,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (/usr/share/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count588
+\BKM@id=\count590
 )) (/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-german.trsl
 File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
 )
@@ -1798,6 +1806,10 @@ Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 33.
 Package biblatex Info: Reference segment=0 on input line 33.
+\c@tabularnotesi=\count591
+\enitdp@tabularnotes=\count592
+\c@tabularnotes*i=\count593
+\enitdp@tabularnotes*=\count594
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1915,121 +1927,150 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<Bilder/netztrafo.png, id=109, 834.11626pt x 768.8725pt>
+<Bilder/netztrafo.png, id=117, 834.11626pt x 768.8725pt>
 File: Bilder/netztrafo.png Graphic file (type png)
 <use Bilder/netztrafo.png>
 Package pdftex.def Info: Bilder/netztrafo.png  used on input line 8.
 (pdftex.def)             Requested size: 227.62206pt x 209.8157pt.
-\g__nicematrix_max_cell_width_dim=\dimen404
-\c@iRow=\count589
-\c@jCol=\count590
-\l__nicematrix_cell_box=\box151
-\l__nicematrix_the_array_box=\box152
-\l__nicematrix_left_delim_dim=\dimen405
-\l__nicematrix_right_delim_dim=\dimen406
-\g__nicematrix_dp_row_zero_dim=\dimen407
-\g__nicematrix_ht_row_zero_dim=\dimen408
-\g__nicematrix_ht_row_one_dim=\dimen409
-\g__nicematrix_dp_ante_last_row_dim=\dimen410
-\g__nicematrix_ht_last_row_dim=\dimen411
-\g__nicematrix_dp_last_row_dim=\dimen412
-\g__nicematrix_block_box_1_box=\box153
-\g__nicematrix_ddots_int=\count591
-\g__nicematrix_iddots_int=\count592
-\g__nicematrix_delta_x_one_dim=\dimen413
-\g__nicematrix_delta_y_one_dim=\dimen414
-\g__nicematrix_delta_x_two_dim=\dimen415
-\g__nicematrix_delta_y_two_dim=\dimen416
-\l__nicematrix_initial_i_int=\count593
-\l__nicematrix_initial_j_int=\count594
-\l__nicematrix_final_i_int=\count595
-\l__nicematrix_final_j_int=\count596
-\l__nicematrix_local_start_int=\count597
-\l__nicematrix_local_end_int=\count598
-Package cleveref Info: loaded `ngerman' language definitions on input line 43.
+\g__nicematrix_max_cell_width_dim=\dimen405
+\c@iRow=\count595
+\c@jCol=\count596
+\l__nicematrix_cell_box=\box152
+\l__nicematrix_the_array_box=\box153
+\l__nicematrix_left_delim_dim=\dimen406
+\l__nicematrix_right_delim_dim=\dimen407
+\g__nicematrix_dp_row_zero_dim=\dimen408
+\g__nicematrix_ht_row_zero_dim=\dimen409
+\g__nicematrix_ht_row_one_dim=\dimen410
+\g__nicematrix_dp_ante_last_row_dim=\dimen411
+\g__nicematrix_ht_last_row_dim=\dimen412
+\g__nicematrix_dp_last_row_dim=\dimen413
+\g__nicematrix_block_box_1_box=\box154
+\g__nicematrix_ddots_int=\count597
+\g__nicematrix_iddots_int=\count598
+\g__nicematrix_delta_x_one_dim=\dimen414
+\g__nicematrix_delta_y_one_dim=\dimen415
+\g__nicematrix_delta_x_two_dim=\dimen416
+\g__nicematrix_delta_y_two_dim=\dimen417
+\l__nicematrix_initial_i_int=\count599
+\l__nicematrix_initial_j_int=\count600
+\l__nicematrix_final_i_int=\count601
+\l__nicematrix_final_j_int=\count602
+\l__nicematrix_local_start_int=\count603
+\l__nicematrix_local_end_int=\count604
+Package cleveref Info: loaded `ngerman' language definitions on input line 44.
 [3
 
  <./Bilder/netztrafo.png>]
-\g__nicematrix_block_box_2_box=\box154
-\g__nicematrix_block_box_3_box=\box155
-\g__nicematrix_block_box_4_box=\box156
-\g__nicematrix_block_box_5_box=\box157
-\g__nicematrix_block_box_6_box=\box158
-Package cleveref Info: loaded `ngerman' language definitions on input line 105.
+\g__nicematrix_block_box_2_box=\box155
+\g__nicematrix_block_box_3_box=\box156
+\g__nicematrix_block_box_4_box=\box157
+\g__nicematrix_block_box_5_box=\box158
+\g__nicematrix_block_box_6_box=\box159
+Package cleveref Info: loaded `ngerman' language definitions on input line 92.
  [4])
 Package cleveref Info: loaded `ngerman' language definitions on input line 53.
  [5] (./chapter/stromrichtertrafo.tex
-<Bilder/stromrichtertrafo.png, id=133, 780.9175pt x 1084.05pt>
+<Bilder/stromrichtertrafo.png, id=139, 780.9175pt x 1084.05pt>
 File: Bilder/stromrichtertrafo.png Graphic file (type png)
 <use Bilder/stromrichtertrafo.png>
 Package pdftex.def Info: Bilder/stromrichtertrafo.png  used on input line 37.
 (pdftex.def)             Requested size: 151.74803pt x 210.65282pt.
-\g__nicematrix_block_box_7_box=\box159
-\g__nicematrix_block_box_8_box=\box160
-\g__nicematrix_block_box_9_box=\box161
+\g__nicematrix_block_box_7_box=\box160
+\g__nicematrix_block_box_8_box=\box161
+\g__nicematrix_block_box_9_box=\box162
 Package cleveref Info: loaded `ngerman' language definitions on input line 58.
  [6
 
  <./Bilder/stromrichtertrafo.png>]
-Overfull \hbox (40.12451pt too wide) in paragraph at lines 79--92
- []$[][][][][]$[][][][][][][] 
+Overfull \hbox (35.75061pt too wide) in paragraph at lines 78--85
+ []$[][][][][]$[][][][][][][][][][][][][][][][] 
  []
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 95.
+
+Overfull \hbox (40.9245pt too wide) in paragraph at lines 92--105
+ []$[][][][][]$[][][][][][][][][] 
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 108.
 [7])
 Package cleveref Info: loaded `ngerman' language definitions on input line 54.
  [8] (./chapter/trafo_allgemeine_anforderungen.tex
-Overfull \hbox (25.12836pt too wide) in paragraph at lines 7--33
- []$[][][][][]$[][][][][][][] 
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\T1/lmr/m/n/12 (+10) mittl. Wick-lungs-über-tem-pe-ra-tur (Er-fah-
  []
 
 
-Underfull \hbox (badness 6001) in paragraph at lines 48--48
+Overfull \hbox (32.39993pt too wide) in paragraph at lines 7--37
+ []$[][][][][]$[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 52--52
 \T1/lmr/m/n/12 (+10) ge-bungs-luft und Wär-me-
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 48--48
+Underfull \hbox (badness 4279) in paragraph at lines 52--52
 \T1/lmr/m/n/12 (+10) strah-lung der Ober-flä-che
  []
 
 
-Underfull \hbox (badness 6001) in paragraph at lines 50--50
+Underfull \hbox (badness 6001) in paragraph at lines 54--54
 \T1/lmr/m/n/12 (+10) ge-bungs-luft und Wär-me-
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 50--50
+Underfull \hbox (badness 4279) in paragraph at lines 54--54
 \T1/lmr/m/n/12 (+10) strah-lung der Ober-flä-che
  []
 
 
-Overfull \hbox (16.79205pt too wide) in paragraph at lines 42--53
+Overfull \hbox (16.79205pt too wide) in paragraph at lines 46--57
  []$[][][][][]$[][][][][][][][] 
  []
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 56.
+Package cleveref Info: loaded `ngerman' language definitions on input line 60.
 [9
 
 ]
-Package cleveref Info: loaded `ngerman' language definitions on input line 77.
+Package cleveref Info: loaded `ngerman' language definitions on input line 73.
  [10]
-Package cleveref Info: loaded `ngerman' language definitions on input line 100.
+Package cleveref Info: loaded `ngerman' language definitions on input line 104.
  [11]
-Package cleveref Info: loaded `ngerman' language definitions on input line 115.
+Package cleveref Info: loaded `ngerman' language definitions on input line 124.
  [12]
-Package cleveref Info: loaded `ngerman' language definitions on input line 131.
- [13])
+Package cleveref Info: loaded `ngerman' language definitions on input line 144.
+ [13]
+Package cleveref Info: loaded `ngerman' language definitions on input line 172.
+ [14]
+Underfull \hbox (badness 10000) in paragraph at lines 197--200
+
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 207.
+[15])
 Package cleveref Info: loaded `ngerman' language definitions on input line 55.
- [14] (./chapter/berechnungen.tex)
+ [16] (./chapter/umrichter.tex
+<Bilder/umrichter_schaltbild.png, id=231, 1194.4625pt x 1033.8625pt>
+File: Bilder/umrichter_schaltbild.png Graphic file (type png)
+<use Bilder/umrichter_schaltbild.png>
+Package pdftex.def Info: Bilder/umrichter_schaltbild.png  used on input line 32.
+(pdftex.def)             Requested size: 227.62206pt x 197.00383pt.
+Package cleveref Info: loaded `ngerman' language definitions on input line 54.
+ [17
+
+ <./Bilder/umrichter_schaltbild.png>])
 Package cleveref Info: loaded `ngerman' language definitions on input line 56.
- [15
+ [18] (./chapter/berechnungen.tex)
+Package cleveref Info: loaded `ngerman' language definitions on input line 57.
+ [19
 
 ]
 \@gls@deffile=\write13
 \openout13 = `main.glsdefs'.
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 79.
+Package cleveref Info: loaded `ngerman' language definitions on input line 80.
  [1
 
 ] (./chapter/Anhang.tex
@@ -2039,14 +2080,14 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 22.
 ]
 Package cleveref Info: loaded `ngerman' language definitions on input line 39.
  [3]
-<Bilder/spannungsoberschwingung_umrichter.png, id=237, 785.93625pt x 414.54875pt>
+<Bilder/spannungsoberschwingung_umrichter.png, id=273, 785.93625pt x 414.54875pt>
 File: Bilder/spannungsoberschwingung_umrichter.png Graphic file (type png)
 <use Bilder/spannungsoberschwingung_umrichter.png>
 Package pdftex.def Info: Bilder/spannungsoberschwingung_umrichter.png  used on input line 54.
 (pdftex.def)             Requested size: 455.24411pt x 240.12848pt.
 Package cleveref Info: loaded `ngerman' language definitions on input line 95.
  [4]
-<Bilder/oberschwingungsamp_umrichterseite.png, id=246, 607.26875pt x 794.97pt>
+<Bilder/oberschwingungsamp_umrichterseite.png, id=284, 607.26875pt x 794.97pt>
 File: Bilder/oberschwingungsamp_umrichterseite.png Graphic file (type png)
 <use Bilder/oberschwingungsamp_umrichterseite.png>
 Package pdftex.def Info: Bilder/oberschwingungsamp_umrichterseite.png  used on input line 98.
@@ -2063,7 +2104,7 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 101.
  [7 <./Bilder/oberschwingungsamp_umrichterseite.png>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=264, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=302, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf>
 Package pdftex.def Info: Bilder/cad.pdf  used on input line 103.
@@ -2081,7 +2122,7 @@ pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF versi
 
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=267, page=1, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=305, page=1, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 1>
 Package pdftex.def Info: Bilder/cad.pdf , page1 used on input line 103.
@@ -2115,7 +2156,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page1 used on input line 103.
  [9 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=314, page=2, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=351, page=2, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 2>
 Package pdftex.def Info: Bilder/cad.pdf , page2 used on input line 103.
@@ -2131,7 +2172,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page2 used on input line 103.
 [10 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=319, page=3, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=357, page=3, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 3>
 Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 103.
@@ -2147,7 +2188,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 103.
 [11 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=324, page=4, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=362, page=4, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 4>
 Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 103.
@@ -2163,7 +2204,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 103.
 [12 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=330, page=5, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=367, page=5, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 5>
 Package pdftex.def Info: Bilder/cad.pdf , page5 used on input line 103.
@@ -2176,7 +2217,49 @@ File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 5>
 Package pdftex.def Info: Bilder/cad.pdf , page5 used on input line 103.
 (pdftex.def)             Requested size: 773.60669pt x 597.78697pt.
-[13 <./Bilder/cad.pdf, page is rotated 90 degrees>])
+[13 <./Bilder/cad.pdf, page is rotated 90 degrees>]
+
+pdfTeX warning: pdflatex (file ./Bilder/umrichter.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Bilder/umrichter.pdf, id=372, 845.04686pt x 597.50786pt>
+File: Bilder/umrichter.pdf Graphic file (type pdf)
+<use Bilder/umrichter.pdf>
+Package pdftex.def Info: Bilder/umrichter.pdf  used on input line 104.
+(pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
+
+
+pdfTeX warning: pdflatex (file ./Bilder/umrichter.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: Bilder/umrichter.pdf Graphic file (type pdf)
+<use Bilder/umrichter.pdf>
+Package pdftex.def Info: Bilder/umrichter.pdf  used on input line 104.
+(pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
+
+
+pdfTeX warning: pdflatex (file ./Bilder/umrichter.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./Bilder/umrichter.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Bilder/umrichter.pdf, id=375, page=1, 845.04686pt x 597.50786pt>
+File: Bilder/umrichter.pdf Graphic file (type pdf)
+<use Bilder/umrichter.pdf, page 1>
+Package pdftex.def Info: Bilder/umrichter.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 845.0448pt x 597.5064pt.
+File: Bilder/umrichter.pdf Graphic file (type pdf)
+<use Bilder/umrichter.pdf, page 1>
+Package pdftex.def Info: Bilder/umrichter.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 845.08348pt x 597.53374pt.
+File: Bilder/umrichter.pdf Graphic file (type pdf)
+<use Bilder/umrichter.pdf, page 1>
+Package pdftex.def Info: Bilder/umrichter.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 845.08348pt x 597.53374pt.
+File: Bilder/umrichter.pdf Graphic file (type pdf)
+<use Bilder/umrichter.pdf, page 1>
+Package pdftex.def Info: Bilder/umrichter.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 845.08348pt x 597.53374pt.
+File: Bilder/umrichter.pdf Graphic file (type pdf)
+<use Bilder/umrichter.pdf, page 1>
+Package pdftex.def Info: Bilder/umrichter.pdf , page1 used on input line 104.
+(pdftex.def)             Requested size: 845.08348pt x 597.53374pt.
+[14 <./Bilder/umrichter.pdf>])
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
@@ -2192,18 +2275,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 75602 strings out of 478238
- 1757225 string characters out of 5850456
- 2780477 words of memory out of 5000000
- 92511 multiletter control sequences out of 15000+600000
+ 77269 strings out of 478238
+ 1791924 string characters out of 5850456
+ 2801224 words of memory out of 5000000
+ 94149 multiletter control sequences out of 15000+600000
  523703 words of font info for 110 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  113i,22n,109p,10836b,2469s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (30 pages, 739873 bytes).
+Output written on main.pdf (35 pages, 808430 bytes).
 PDF statistics:
- 466 PDF objects out of 1000 (max. 8388607)
- 332 compressed objects within 4 object streams
- 107 named destinations out of 1000 (max. 500000)
- 37235 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 530 PDF objects out of 1000 (max. 8388607)
+ 386 compressed objects within 4 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 37292 words of extra memory for PDF output out of 42996 (max. 10000000)
 

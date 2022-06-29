@@ -1,6 +1,6 @@
 \section{Einphasen-Stromrichteröltrafo 16.7 Hz}
 Der \SI[]{16.7}[]{\Hz} Transformator ist ein Summiertransformator und addiert die
-Teilspannungen der Umrichterr auf die Bahnspannung 2 AC
+Teilspannungen der Umrichter auf die Bahnspannung 2 AC
 \SI[]{110}[]{\kV}. Der Transformator ist ölgefüllt, selbstkühlend und für die Aussenaufstellung ausgelegt.
 
 \subsection{Allgemeine Merkmale}
@@ -71,11 +71,24 @@ Teilspannungen der Umrichterr auf die Bahnspannung 2 AC
     \end{NiceTabular}
 \end{table}
 
+\subsubsection*{Verluste}
+\begin{table}[htb]
+    \centering
+    \begin{NiceTabular}{|l|c|c|}[hvlines]
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+       &Grudnschwingung&Umrichterbetrieb(Zusatzverluste)\\
+       Leerlaufverluste bei Nennspannung&tbd. \unit{\kW}& < \SI[]{1}[]{\percent} von der Grudnschwingung\\
+    Kurzschlussverluste bei \ang{75}C&tbd. \unit{\kW}&< \SI[]{1}[]{\percent} von der Grudnschwingung\\
+    \end{NiceTabular}
+\end{table}
+
 \subsubsection*{Isolation}
 Die Blitzstoß- so wie die angelegte Stehwechselspannungsprüfung (ACSD)  muss als Stückprüung nach DIN EN 60076-3\cite*{DINEN600763VDE0532763:201903.} für alle Wicklungen des Transformators durchgeführt werden.
 \begin{table}[htb]
     \centering
-    \begin{NiceTabular}{l|c|c|c}[]
+    \begin{NiceTabular}{|l|c|c|c|}[]
         \CodeBefore
         \columncolor{lightergray}{1}
         \Body

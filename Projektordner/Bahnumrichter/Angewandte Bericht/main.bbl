@@ -39,25 +39,6 @@
       \field{number}{60076-3}
       \field{title}{Leistungstransformatoren: Teil 3: Isolationspegel, Spannungsprüfungen und äu{ß}ere Abstände in Luft}
     \endentry
-    \entry{DINEN6007610.10:2001}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=24bc33e60ce5437f1455dfb8f2c3f6aa}{%
-           family={{DIN EN 60076-10}},
-           familyi={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{24bc33e60ce5437f1455dfb8f2c3f6aa}
-      \strng{fullhash}{24bc33e60ce5437f1455dfb8f2c3f6aa}
-      \strng{bibnamehash}{24bc33e60ce5437f1455dfb8f2c3f6aa}
-      \strng{authorbibnamehash}{24bc33e60ce5437f1455dfb8f2c3f6aa}
-      \strng{authornamehash}{24bc33e60ce5437f1455dfb8f2c3f6aa}
-      \strng{authorfullhash}{24bc33e60ce5437f1455dfb8f2c3f6aa}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Leistungstransformatoren: Teil 10: Bestimmung der Geräuschpegel}
-      \field{year}{10:2001}
-    \endentry
     \entry{DeutschesInstitutfurNormungene.V..200802}{misc}{}
       \name{author}{1}{}{%
         {{hash=34ef51c97cb4b8c333af34a5032d0bfb}{%
@@ -70,13 +51,32 @@
       \strng{authorbibnamehash}{34ef51c97cb4b8c333af34a5032d0bfb}
       \strng{authornamehash}{34ef51c97cb4b8c333af34a5032d0bfb}
       \strng{authorfullhash}{34ef51c97cb4b8c333af34a5032d0bfb}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{EN 50163/A1}
       \field{title}{Bahnanwendungen: Speisespannungen von Bahnnetzen}
       \field{year}{2008-02}
+    \endentry
+    \entry{DINEN600761.}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0129ab067e822d262ec6db40606577e4}{%
+           family={{DIN EN 60076-1}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0129ab067e822d262ec6db40606577e4}
+      \strng{fullhash}{0129ab067e822d262ec6db40606577e4}
+      \strng{bibnamehash}{0129ab067e822d262ec6db40606577e4}
+      \strng{authorbibnamehash}{0129ab067e822d262ec6db40606577e4}
+      \strng{authornamehash}{0129ab067e822d262ec6db40606577e4}
+      \strng{authorfullhash}{0129ab067e822d262ec6db40606577e4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{60076-1}
+      \field{title}{Leistungstransformatoren: Teil 1: Allgemeines}
     \endentry
   \enddatalist
 \endrefsection

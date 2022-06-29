@@ -2349,12 +2349,12 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">DINEN600763VDE0532763:201903.</bcf:citekey>
-    <bcf:citekey order="2">DINEN6007610.10:2001</bcf:citekey>
-    <bcf:citekey order="3">DeutschesInstitutfurNormungene.V..200802</bcf:citekey>
-    <bcf:citekey order="4">DINEN600763VDE0532763:201903.</bcf:citekey>
+    <bcf:citekey order="2">DeutschesInstitutfurNormungene.V..200802</bcf:citekey>
+    <bcf:citekey order="3">DINEN600763VDE0532763:201903.</bcf:citekey>
+    <bcf:citekey order="4">DINEN600761.</bcf:citekey>
     <bcf:citekey order="5">DINEN600763VDE0532763:201903.</bcf:citekey>
-    <bcf:citekey order="6">DINEN6007610.10:2001</bcf:citekey>
-    <bcf:citekey order="7">DeutschesInstitutfurNormungene.V..200802</bcf:citekey>
+    <bcf:citekey order="6">DeutschesInstitutfurNormungene.V..200802</bcf:citekey>
+    <bcf:citekey order="7">DINEN600761.</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

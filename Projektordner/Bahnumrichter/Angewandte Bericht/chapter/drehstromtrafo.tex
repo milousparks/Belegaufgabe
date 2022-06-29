@@ -1,11 +1,11 @@
 \section{Drehstrom-Leistungstransformator 50 Hz}
-Der Transformator soll für die Aussenaufstellung ausgelegt werden und wird von 3 AC \SI[]{50}[]{\Hz}, \SI[]{110}[]{\kilo\volt} gespeist.
-Der Transformator soll ölgefullt und selbstkühlend sein.\\ 
+Der Transformator soll für die Außenaufstellung ausgelegt werden und wird von 3 AC \SI[]{50}[]{\Hz}, \SI[]{110}[]{\kilo\volt} gespeist.
+Der Transformator soll ölgefüllt und selbstkühlend sein.\\ 
 
 \textbf{Schaltbild}
 \begin{figure}[htb]
 \centering
-\includegraphics[width=\textwidth/2]{Bilder/netztrafo.png}
+\includegraphics[width=\textwidth/2,frame]{Bilder/netztrafo.png}
 \end{figure}
 
 \subsection{Allgemeine Merkmale}
@@ -30,6 +30,7 @@ Der Transformator soll ölgefullt und selbstkühlend sein.\\
                  \Block{3-1}{Dokumentationen} &  \tabitem Technische Zeichnungen und CAD\\
                          &\tabitem Montageplan, Wartungsplan, Dokumentationen\\
                          &\tabitem Prüfprotokoll der zu erfüllenden Prüfungen\\
+                         \hline
        
     \end{NiceTabular}
 \end{table}
@@ -40,26 +41,12 @@ Der Transformator soll ölgefullt und selbstkühlend sein.\\
 \begin{itemize}
     \item DIN VDE 0532-76-1: Leistungstransformatoren
     \item DIN EN 61378-1 Stromrichtertransformatoren - Teil 1: Transformatoren für industrielle Anwendungen
+ 
     \item DIN EN 60076-3 Leistungstransformatoren Teil 3: Isolationspegel, Spannungsprüfungen und äußere Abstände in Luft
 \end{itemize}
 
 
 \subsection{Bemessungsdaten:}
-
-% \begin{table}[htb]
-%     \centering
-%     \begin{tabular}{|p{10cm}|p{2cm}|p{2cm}|}
-%         \hline
-%         \cellcolor{lightergray} & \cellcolor{white} OS & \cellcolor{white} US \\
-%          \multirow{-2}{10cm}{\textbf{Schaltgruppe}} & Y(N) &   i0i0i0  \\
-%         \hline
-%         \cellcolor{lightergray} \textbf{Nennleistung ohne Leistung der Filterwicklung}  &  & \\
-%         \hline
-%         \cellcolor{lightergray}   & Nennfrequenz &   \SI{50}{\Hz}  \\
-%         \hline
-%         \cellcolor{lightergray} Nennspannung OS (Klemmenspannung)  & Nennspannung OS (Klemmenspannung) &   \SI{50}{\Hz}  \\
-%     \end{tabular}
-% \end{table}
 
 
 \begin{table}[htb]
@@ -70,11 +57,11 @@ Der Transformator soll ölgefullt und selbstkühlend sein.\\
         \Body
        \Block{2-1}{Schaltgruppe} & OS & US \\ 
                                 & Y(N) &   i0i0i0  \\
-         Nennleistung ohne Leistung der Filterwicklung & \Block{1-2}{$\SI{20}{\unit{\mega\volt\ampere}}$}\\
+         Nennleistung ohne Leistung der Filterwicklung & \Block{1-2}{$\SI{17.68}{\unit{\mega\volt\ampere}}$}\\
          Nennspannung OS (Klemmenspannung) & \Block{1-2}{$\SI{110}{\kV}$}\\
          Max. Spannung OS (Klemmenspannung) & \Block{1-2}{$\SI{123}{\kV}$}\\
          Nennspannung US (Klemmenspannung) & \Block{1-2}{$\SI{3536}{\V}$}\\
-         Nennstrom der US bei Nennspannung & \Block{1-2}{$\SI{1.885}{\kilo\ampere}$}\\
+         Nennstrom der US bei Nennspannung & \Block{1-2}{$\SI{1.667}{\kilo\ampere}$}\\
     \end{NiceTabular}
 \end{table}
 
@@ -107,4 +94,4 @@ Eine kapazitive Übertragung von Blitzüberspannungen von der OS-Wicklung auf di
  
 \textbf{Geräuschpegel}\\
 Aufstellungsort: Allgemeines Wohngebiet gemäß § 1 BImSchG  $L_\mathrm{pmax}=40 dB(A)$.
-Grenzwert darf im Fernfeld(5m) mit Messung nach DIN EN 60076-10\cite*{DINEN6007610.10:2001} nicht überschritten werden.
+Grenzwert darf im Fernfeld(5m) mit Messung nach DIN EN 60076-10 nicht überschritten werden.

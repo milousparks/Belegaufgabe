@@ -1,9 +1,9 @@
 \section{Anforderungen an 50Hz und 16,7 Hz-Transformatoren}
 
-\subsubsection*{ALlgemiene Technische Anforderungen}
+\subsubsection*{Allgemeine technische Anforderungen}
 \begin{table}[htb]
     \centering
-    \begin{NiceTabular}{|l|p{8cm}|}[]
+    \begin{NiceTabular}{|p{8cm}|p{8cm}|}[hvlines]
         \CodeBefore
         \columncolor{lightergray}{1}
         \Body
@@ -28,7 +28,11 @@
                          \hline
                          Übertemperatur Öl oben & \SI{60}{\kelvin}\\
             \hline
-            Schalldruckpegel Mittelwert; in 1m Abstand
+            Schalldruckpegel Mittelwert; in 1m Abstand; nach DIN 60551/45635 Teil 30; Nachweis nach VDE0532Teil 7;IEC 551 mit Messung bei Leerlauf.&55dB(A) Tol.\SI[]{0}[]{\percent}\\
+            Schalldruckpegel Maximalwert (Einzelwert) ; in 1 m Abstand nach DIN 60551/45635 Teil 30 Nachweis nach VDE0532Teil 7;IEC 551 mit Messung bei Leerlauf. & 60dB(A)Tol.\SI[]{0}[]{\percent}\\ 
+                Betriebsart&Dauerbetrieb ;Stromrichterbetrieb\\
+                mittl. Wicklungsübertemperatur (Erfahrungswert, durch Hersteller festzulegen)&\SI[]{65}[]{\kelvin}\\
+                Übertemperatur Öl oben (Erfahrungswert, durch Hersteller festzulegen)& \SI[]{65}[]{\kelvin}\\
     \end{NiceTabular}
 \end{table}
 
@@ -61,7 +65,7 @@ Sättigungskennlinie ist zu liefern
 Am Transformatorkessel soll  eine Traverse montiert werden, auf der die Kabel zum Umrichter verlegt werden.
 
 \subsubsection*{Angaben zur Betriebsweisen}
-\begin{itemize}
+\begin{itemize}[noitemsep]
     \item Beide Transformatoren werden im gesamten Bereich $cos(\phi)=0.8\ldots-0.8$ betrieben. Die Transformatoren können sowohl mit gleichförmiger als auch mit stark wechselnder Last beaufschlagt werden (z.B. häufiges Anfahren und Bremsen von Schienenfahrzeugen).
     \item  Die Transformatoren sind über Vakuum Schnellschalter mit dem 110kV 50 Hz bzw. 16,7 Hz Netz verbunden. Die Verbindung kann dabei sowohl über eine Freileitung als auch ein Kabel erfolgen. 
     Im Normalfall werden die Transformatoren nur lastlos abgeschaltet. Schutzabschaltungen können unter Volllast vorkommen und dürfen nicht zu einer Beschädigung der Wicklungen führen. 
@@ -72,7 +76,7 @@ Am Transformatorkessel soll  eine Traverse montiert werden, auf der die Kabel zu
 \end{itemize}
 
 \subsubsection*{Kessel}
-\begin{itemize}
+\begin{itemize}[noitemsep]
     \item Vakuumfeste und öldichte Ausführung (mit Nachweis)
     \item Wandstärke Kessel : bitte angeben	Erfahrungswert : mind. \SI[]{8}[]{\mm}
     \item Wandstärke Boden und Deckel : bitte angeben	Erfahrungswert: mind. \SI[]{10}[]{\mm}
@@ -81,7 +85,7 @@ Am Transformatorkessel soll  eine Traverse montiert werden, auf der die Kabel zu
     \item Die Lage des Ausdehnungsgefäßes ist gem. den örtlichen Gegebenheiten abzustimmen.
 \end{itemize}
 \subsubsection*{Kesselzubehör}
-\begin{itemize}
+\begin{itemize}[noitemsep]
     \item Ölausdehnungsgefäß mit Luftentfeuchter, Ölstandsanzeiger, Absperr- und Entleerungshahn
     \item Anschlussschieber für eine Ölreinigungsanlage (NW 80)
     \item Ölablasshähne für Probeentnahme (oben, mittig, unten)
@@ -108,7 +112,7 @@ Siehe Anlage, Spezifikation der DB AG
 \subsubsection*{Beschichtungsaufbau}
 Siehe Anlage, Spezifikation der DB AG
 \subsubsection*{Überwachungseinrichtungen}
-\begin{itemize}
+\begin{itemize}[noitemsep]
     \item Buchholz-Zweischwimmerrelais für den Kessel mit Warnung und Auslösung 2x(Ö+S)
     \item Luftentfeuchter für den Kessel
     \item Wicklungstempperaturanzeige mit Meßumformer (4...20mA)  mit Warnung und Auslösung 2x(Ö+S)
@@ -140,3 +144,66 @@ Zusatzmaßnahmen zum Schallschutz (z.B. Gummieinlagen, Schenkel lackieren) sind 
 \subsubsection*{Normen}
 Ausführung und Prüfung des Transformators nach DIN VDE 0532 /IEC76 
 \subsubsection*{Prüfungen gemäß DIN VDE 0532- 76-1/ IEC 76}
+Prüfungen sind bei Umgebungstemperaturen zwischen 10 °C und 40 °C durchzuführen sowie bei einer
+Temperatur des Kühlwassers (falls erforderlich), die $\leq \ang{25}C $.
+
+Die Prüfungen sind im Herstellerwerk vorzunehmen, falls nicht anders zwischen Hersteller und Abnehmer
+vereinbart.
+
+Alle äußeren Bestand- und Zubehörteile, die das Verhalten des Transformators bei der Prüfung beeinflussen
+können, sind anzubauen.
+
+Für alle Eigenschaften außer der Isolation bilden die Bemessungswerte die Grundlage, wenn nicht die
+betreffende Prüfvorschrift anderes festlegt.
+
+Sämtliche bei den Prüfungen verwendeten Messeinrichtungen müssen eine bescheinigte, nachprüfbare
+Genauigkeit haben und einer regelmäßigen Kalibrierung unterliegen, entsprechend den Regeln nach
+ISO 9001, 4.11.\cite*{DINEN600761.}
+\subsubsection*{Stückprüfungen}
+\begin{itemize}[noitemsep]
+    \item Messung des Wicklungswiderstands
+    \item Messung der Übersetzung und Nachweis der Phasendrehung
+    \item Messung der Kurzschlussimpedanz und der Kurzschlussverluste 
+    \item Messung der Leerlaufverluste und des Leerlaufstroms
+    \item Spannungsprüfungen (IEC 60076-3)
+    \begin{itemize}
+        \item Blitzstoßspannung
+        \item Angelegte Stehwechselspannung (ACSD)
+        \item Kurzeit-Wechselspannung (ACSD)
+    \end{itemize} 
+    \item Prüfungen an Stufenschaltern, falls vorhanden
+\end{itemize}
+
+\subsubsection*{Typprüfungen}
+\begin{itemize}[noitemsep]
+    \item Erwärmungsprüfung (IEC 60076-2)
+\end{itemize}
+\subsubsection*{Sonderprüfungen}
+\begin{itemize}[noitemsep]
+    \item Spannungsprüfungen (IEC 60076-3)
+     \begin{itemize}
+        \item Langzeit-Wechselspannung (ACLD)
+    \end{itemize}
+    \item Bestimmung der Kapazitäten der Wicklungen gegen Erde und zwischen den Wicklungen
+    \item Bestimmung des Übertragungsverhaltens von transienten Spannungen
+    \item Messung der Nullimpedanz(en) von Drehstromtransformatoren
+    \item Nachweis der Kurzschlussfestigkeit
+    \item Bestimmung der Geräuschpegel
+    \item Messung der Oberschwingungen des Leerlaufstroms
+    \item Messung des Isolationswiderstands der Wicklungen gegen Erde und/oder Messung des Verlustfaktors
+    ($\tan\theta$) der Kapazitäten des Isoliersystems
+\end{itemize}
+\subsubsection*{Dokumentation}
+Sprache: deutsch\\
+zweifache Ausführung in Ordnern\\
+zweifache Ausführung elektronisch (CD-ROM)\\
+
+Umfang:
+\begin{itemize}[noitemsep]
+    \item technische Daten
+    \item Prüfnachweise
+    \item Inbetriebnahmeanweisung
+    \item Wartungsanweisung
+    \item Montageanleitung 
+    \item Beschreibung inclusive Zeichnungen und Stromlaufplan
+\end{itemize}

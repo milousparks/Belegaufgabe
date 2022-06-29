@@ -1,1 +1,61 @@
 \section{Stromrichter}
+Die Leistungselektronik wir in einem mobilen Container, der für die Außenaufstellung ausgelegt wird untergebracht und verbindet die beiden Transformatoren.
+Die Zwischenkreiskomponenten wie die Drosseln, Kondensatoren und Widerstände werden ebenfalls außen aufgestellt und mit dem COntainer verbuden. 
+
+\subsection{Allgemeine Merkmale}
+\begin{table}[htb]
+    \centering
+    \begin{NiceTabular}{|l|c|}[]
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+        \hline
+         Aufstellung & Container(Innenraum)\\
+         \hline
+         Verschmutzung & Verschmutzungsgrad II (normal) \\
+         \hline
+         Aufstellungshöhe & < 1000 m üNN\\
+         \hline
+         Umgebungstemperatur &  -30°C bis 40°C\\
+         \hline
+         Klimabedingungen & Normal\\ 
+         \hline
+                 \Block{3-1}{Dokumentationen} &  \tabitem Technische Zeichnungen und CAD\\
+                         &\tabitem Montageplan, Wartungsplan, Dokumentationen\\
+                         &\tabitem Prüfprotokoll der zu erfüllenden Prüfungen\\
+            \hline
+    \end{NiceTabular}
+\end{table}
+\subsubsection*{Schaltbild}
+\begin{figure}[htb]
+    \centering
+\includegraphics[width=\textwidth/2,frame]{Bilder/umrichter_schaltbild.png}
+\end{figure}
+\subsection{Bemessungsdaten Umrichter}
+\begin{table}[htb]
+    \centering
+    \begin{NiceTabular}{|l|p{2cm}|}[hvlines]
+        \CodeBefore
+        \columncolor{lightergray}{1}
+        \Body
+         Nennleistung  & $\SI{5}{\unit{\mega\volt\ampere}}$\\
+         Nenneingangsspannung DC  & $\SI{5000}{\V}$\\
+         Nennausgangaspannung AC (RMS) & $\SI{3535}{\V}$\\
+         Nennfrequenz AC-Seite  & $\SI{16.7}{\Hz}$\\
+         Wirkungsgrad& $>95\%$\\    
+         max. Strombelastung Halbleiter & \SI[]{1714}[]{\A}\\ 
+         max. Spannungsbelastung Halbleiter & \SI[]{2500}[]{\V}\\
+    \end{NiceTabular}
+\end{table}
+
+\subsubsection*{Kühlung}
+Die Wechselrichter werden über ein autake Wasserkühlung gekühhlt. Pumpen befördern das Kühlwasser von den Halbleitern 
+zum Wärmetauscher. Über diesen Wärmetauscher werden die Verluste des Wechselrichters an die Umgebung abgegeben. 
+
+\subsection{Funktionsprüfung}
+
+\begin{itemize}
+    \item Spannungsprüfungen nach Isolationskoordinaten 
+    \item 
+Downloads/umrichter.tex                                                           1,1            Top
+                                                           

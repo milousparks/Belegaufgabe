@@ -1,30 +1,30 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  30 JUN 2022 00:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.12)  30 JUN 2022 13:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex"
-(/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex
+**"c:/Users/milan/OneDrive - Hochschule fÃ¼r Technik und Wirtschaft Berlin/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex"
+(c:/Users/milan/OneDrive - Hochschule fÃ¼r Technik und Wirtschaft Berlin/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-04-10> (./resources/settings/settings.tex (/usr/share/texmf-dist/tex/latex/koma-script/scrartcl.cls
+L3 programming layer <2021-11-22> (resources/settings/settings.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
 Document Class: scrartcl 2021/11/13 v3.35 KOMA-Script document class (article)
-(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
 Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
 Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
 Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
- (/usr/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
 Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
- (/usr/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
-))) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
-)) (/usr/share/texmf-dist/tex/latex/koma-script/tocbasic.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
 Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip47
 \scr@dte@tocline@numbox=\box50
@@ -44,12 +44,12 @@ Class scrartcl Info: You've used standard option `oneside'.
 (scrartcl)           you'd have to use `twoside=false' there
 (scrartcl)           instead of `oneside', too.
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input line 2242.
- (/usr/share/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize12pt.clo
 File: scrsize12pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (12pt)
-) (/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
 Package: typearea 2021/11/13 v3.35 KOMA-Script package (type area)
 \ta@bcor=\skip48
-\ta@div=\count185
+\ta@div=\count183
 Package typearea Info: You've used standard option `a4paper'.
 (typearea)             This is correct!
 (typearea)             Internally I'm using `paper=a4'.
@@ -84,12 +84,12 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \baselineskip   = 14.5pt
 (typearea)              on input line 1743.
 )
-\c@part=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
+\c@part=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
 \scr@dte@section@maxnumwidth=\skip53
 Class scrartcl Info: using compatibility default `runin=bysign'
 (scrartcl)           for `\section on input line 4852.
@@ -124,23 +124,23 @@ Class scrartcl Info: using compatibility default `afterindent=bysign'
 Package tocbasic Info: babel extension for `lof' omitted
 (tocbasic)             because of missing \bbl@set@language on input line 6076.
 \scr@dte@figure@maxnumwidth=\skip61
-\c@figure=\count192
+\c@figure=\count190
 Package tocbasic Info: babel extension for `lot' omitted
 (tocbasic)             because of missing \bbl@set@language on input line 6091.
 \scr@dte@table@maxnumwidth=\skip62
-\c@table=\count193
+\c@table=\count191
 Class scrartcl Info: Redefining `\numberline' on input line 6258.
 \bibindent=\dimen138
-) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -150,84 +150,83 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks17
-) (/usr/share/texmf-dist/tex/latex/koma-script/scrhack.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrhack.sty
 Package: scrhack 2021/11/13 v3.35 KOMA-Script package (hacking other packages)
- (/usr/share/texmf-dist/tex/latex/xpatch/xpatch.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-04-10 L3 programming layer (loader) 
- (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count197
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
 \l__pdf_internal_box=\box52
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
- (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
-) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2021-11-12 L3 Experimental document command parser
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count198
-))) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2022/03/01 v3.6b Customizing captions (AR)
- (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen147
-\captionmargin=\dimen148
-\caption@leftmargin=\dimen149
-\caption@rightmargin=\dimen150
-\caption@width=\dimen151
-\caption@indent=\dimen152
-\caption@parindent=\dimen153
-\caption@hangindent=\dimen154
+\etb@tempcnta=\count196
+))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen147
+\captionmargin@=\dimen148
+\captionwidth=\dimen149
+\caption@tempdima=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
 Package caption Info: KOMA-Script document class detected.
- (/usr/share/texmf-dist/tex/latex/caption/caption-koma.sto
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-koma.sto
 File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the KOMA-Script document classes (AR)
 ))
-\c@caption@flags=\count199
-\c@continuedfloat=\count266
-) (/usr/share/texmf-dist/tex/latex/derivative/derivative.sty (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+\c@caption@flags=\count197
+\c@continuedfloat=\count198
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/derivative\derivative.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2021-11-12 LaTeX2e option processing using LaTeX3 keys
 )
 Package: derivative 2021/06/03 v1.1 Nice and easy derivatives and differentials for LaTeX
-\l__deriv_vmo_int=\count267
-\l__deriv_tmpa_int=\count268
-\l__deriv_tmpb_int=\count269
-\l__deriv_numerical_int=\count270
-\l__deriv_sort_counter_int=\count271
-\l__deriv_sort_max_int=\count272
-\l__deriv_position_int=\count273
-\l__deriv_rebuild_int=\count274
-) (/usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+\l__deriv_vmo_int=\count199
+\l__deriv_tmpa_int=\count266
+\l__deriv_tmpb_int=\count267
+\l__deriv_numerical_int=\count268
+\l__deriv_sort_counter_int=\count269
+\l__deriv_sort_max_int=\count270
+\l__deriv_position_int=\count271
+\l__deriv_rebuild_int=\count272
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/imakeidx\imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchronous mode
- (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
- (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 )
-\XKV@depth=\count275
+\XKV@depth=\count273
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count276
+\c@tracingmulticols=\count274
 \mult@box=\box53
-\multicol@leftmargin=\dimen155
-\c@unbalance=\count277
-\c@collectmore=\count278
-\doublecol@number=\count279
-\multicoltolerance=\count280
-\multicolpretolerance=\count281
-\full@width=\dimen156
-\page@free=\dimen157
-\premulticols=\dimen158
-\postmulticols=\dimen159
+\multicol@leftmargin=\dimen154
+\c@unbalance=\count275
+\c@collectmore=\count276
+\doublecol@number=\count277
+\multicoltolerance=\count278
+\multicolpretolerance=\count279
+\full@width=\dimen155
+\page@free=\dimen156
+\premulticols=\dimen157
+\postmulticols=\dimen158
 \multicolsep=\skip63
 \multicolbaselineskip=\skip64
 \partial@page=\box54
 \last@line=\box55
-\maxbalancingoverflow=\dimen160
+\maxbalancingoverflow=\dimen159
 \mult@rightbox=\box56
 \mult@grightbox=\box57
 \mult@firstbox=\box58
@@ -268,226 +267,226 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
-\c@minrows=\count282
-\c@columnbadness=\count283
-\c@finalcolumnbadness=\count284
-\last@try=\dimen161
-\multicolovershoot=\dimen162
-\multicolundershoot=\dimen163
+\c@minrows=\count280
+\c@columnbadness=\count281
+\c@finalcolumnbadness=\count282
+\last@try=\dimen160
+\multicolovershoot=\dimen161
+\multicolundershoot=\dimen162
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
-\mc@col@check@num=\count285
-)) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+\mc@col@check@num=\count283
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip65
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
-\ex@=\dimen164
-)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\ex@=\dimen163
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen165
-) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen164
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count286
+\inf@bad=\count284
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count287
-\leftroot@=\count288
+\uproot@=\count285
+\leftroot@=\count286
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count289
-\DOTSCASE@=\count290
+\classnum@=\count287
+\DOTSCASE@=\count288
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
 \Mathstrutbox@=\box98
 \strutbox@=\box99
-\big@size=\dimen166
+\big@size=\dimen165
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count291
-\c@MaxMatrixCols=\count292
+\macc@depth=\count289
+\c@MaxMatrixCols=\count290
 \dotsspace@=\muskip16
-\c@parentequation=\count293
-\dspbrk@lvl=\count294
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
 \tag@help=\toks21
-\row@=\count295
-\column@=\count296
-\maxfields@=\count297
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
 \andhelp@=\toks22
-\eqnshift@=\dimen167
-\alignsep@=\dimen168
-\tagshift@=\dimen169
-\tagwidth@=\dimen170
-\totwidth@=\dimen171
-\lineht@=\dimen172
+\eqnshift@=\dimen166
+\alignsep@=\dimen167
+\tagshift@=\dimen168
+\tagwidth@=\dimen169
+\totwidth@=\dimen170
+\lineht@=\dimen171
 \@envbody=\toks23
 \multlinegap=\skip66
 \multlinetaggap=\skip67
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
-) (/usr/share/texmf-dist/tex/latex/paralist/paralist.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/paralist\paralist.sty
 Package: paralist 2017/01/22 v2.7 Extended list environments
 \pltopsep=\skip68
 \plpartopsep=\skip69
 \plitemsep=\skip70
 \plparsep=\skip71
 \pl@lab=\toks25
-) (/usr/share/texmf-dist/tex/latex/comment/comment.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write3
- Excluding comment 'comment') (/usr/share/texmf-dist/tex/latex/epigraph/epigraph.sty
+ Excluding comment 'comment') (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/epigraph\epigraph.sty
 Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
- (/usr/share/texmf-dist/tex/latex/nextpage/nextpage.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage.sty
 Package: nextpage 2009/09/03 v1.1a additional page commands
 )
 \beforeepigraphskip=\skip72
 \afterepigraphskip=\skip73
 \epigraphwidth=\skip74
 \epigraphrule=\skip75
-) (/usr/share/texmf-dist/tex/latex/acronym/acronym.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
 Package: acronym 2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
- (/usr/share/texmf-dist/tex/latex/bigfoot/suffix.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
-) (/usr/share/texmf-dist/tex/generic/xstring/xstring.sty (/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count298
-\decimalpart=\count299
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count296
+\decimalpart=\count297
 )
 Package: xstring 2021/07/21 v1.84 String manipulations (CT)
 )
 \AC@clearlist=\toks26
-) (/usr/share/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
 Package: glossaries 2021/11/01 v4.49 (NLCT)
- (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-) (/usr/share/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2021/10/15 v2.07 (NLCT)
 \@glsmfirst=\toks27
 \@glsmrest=\toks28
-) (/usr/share/texmf-dist/tex/latex/textcase/textcase.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
 Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
-) (/usr/share/texmf-dist/tex/latex/xfor/xfor.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
-) (/usr/share/texmf-dist/tex/latex/datatool/datatool-base.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
 Package: datatool-base 2019/09/27 v2.32 (NLCT)
- (/usr/share/texmf-dist/tex/latex/substr/substr.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count300
-) (/usr/share/texmf-dist/tex/latex/datatool/datatool-fp.sty
+\c@su@anzahl=\count298
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.sty
 Package: datatool-fp 2019/09/27 v2.32 (NLCT)
- (/usr/share/texmf-dist/tex/latex/fp/fp.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
 Package: fp 1995/04/02
- `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (/usr/share/texmf-dist/tex/latex/fp/defpattern.sty
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count301
-) (/usr/share/texmf-dist/tex/latex/fp/fp-basic.sty
+\actioncount=\count299
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count302
-\FP@xia=\count303
-\FP@xib=\count304
-\FP@xfa=\count305
-\FP@xfb=\count306
-\FP@rega=\count307
-\FP@regb=\count308
-\FP@regs=\count309
-\FP@times=\count310
-) (/usr/share/texmf-dist/tex/latex/fp/fp-addons.sty
+\FP@xs=\count300
+\FP@xia=\count301
+\FP@xib=\count302
+\FP@xfa=\count303
+\FP@xfb=\count304
+\FP@rega=\count305
+\FP@regb=\count306
+\FP@regs=\count307
+\FP@times=\count308
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
 Package: fp-addons 1995/03/15
-) (/usr/share/texmf-dist/tex/latex/fp/fp-snap.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
 Package: fp-snap 1995/04/05
-) (/usr/share/texmf-dist/tex/latex/fp/fp-exp.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
 Package: fp-exp 1995/04/03
-) (/usr/share/texmf-dist/tex/latex/fp/fp-trigo.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
 Package: fp-trigo 1995/04/14
-) (/usr/share/texmf-dist/tex/latex/fp/fp-pas.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
 Package: fp-pas 1994/08/29
-) (/usr/share/texmf-dist/tex/latex/fp/fp-random.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count311
-) (/usr/share/texmf-dist/tex/latex/fp/fp-eqn.sty
+\FPseed=\count309
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
 Package: fp-eqn 1995/04/03
-) (/usr/share/texmf-dist/tex/latex/fp/fp-upn.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
 Package: fp-upn 1996/10/21
-) (/usr/share/texmf-dist/tex/latex/fp/fp-eval.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks29
-\@dtl@tmpcount=\count312
+\@dtl@tmpcount=\count310
 \dtl@tmplength=\skip76
-\dtl@sortresult=\count313
-\@dtl@numgrpsepcount=\count314
-\@dtl@datatype=\count315
-\dtl@codeA=\count316
-\dtl@codeB=\count317
-\@dtl@foreach@level=\count318
-) (/usr/share/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty
+\dtl@sortresult=\count311
+\@dtl@numgrpsepcount=\count312
+\@dtl@datatype=\count313
+\dtl@codeA=\count314
+\dtl@codeB=\count315
+\@dtl@foreach@level=\count316
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries-compatible-307.sty
 Package: glossaries-compatible-307 2021/11/01 v4.49 (NLCT)
 )
-\gls@level=\count319
+\gls@level=\count317
 \@gls@tmpb=\toks30
 \gls@tmplen=\skip77
 \glskeylisttok=\toks31
 \glslabeltok=\toks32
 \glsshorttok=\toks33
 \glslongtok=\toks34
- (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
 Package: glossary-hypernav 2021/11/01 v4.49 (NLCT)
-) (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
 Package: glossary-list 2021/11/01 v4.49 (NLCT)
 \glslistdottedwidth=\skip78
-) (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
 Package: glossary-long 2021/11/01 v4.49 (NLCT)
- (/usr/share/texmf-dist/tex/latex/tools/longtable.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTleft=\skip79
 \LTright=\skip80
 \LTpre=\skip81
 \LTpost=\skip82
-\LTchunksize=\count320
-\LTcapwidth=\dimen173
+\LTchunksize=\count318
+\LTcapwidth=\dimen172
 \LT@head=\box100
 \LT@firsthead=\box101
 \LT@foot=\box102
 \LT@lastfoot=\box103
 \LT@gbox=\box104
-\LT@cols=\count321
-\LT@rows=\count322
-\c@LT@tables=\count323
-\c@LT@chunks=\count324
+\LT@cols=\count319
+\LT@rows=\count320
+\c@LT@tables=\count321
+\c@LT@chunks=\count322
 \LT@p@ftn=\toks35
 )
 Class scrartcl Info: longtable captions redefined on input line 43.
 \glsdescwidth=\skip83
 \glspagelistwidth=\skip84
-) (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
 Package: glossary-super 2021/11/01 v4.49 (NLCT)
- (/usr/share/texmf-dist/tex/latex/supertabular/supertabular.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
-\c@tracingst=\count325
-\ST@wd=\dimen174
+\c@tracingst=\count323
+\ST@wd=\dimen173
 \ST@rightskip=\skip85
 \ST@leftskip=\skip86
 \ST@parfillskip=\skip87
-\ST@pageleft=\dimen175
-\ST@headht=\dimen176
-\ST@tailht=\dimen177
-\ST@pagesofar=\dimen178
-\ST@pboxht=\dimen179
-\ST@lineht=\dimen180
-\ST@prevht=\dimen181
-\ST@toadd=\dimen182
-\ST@dimen=\dimen183
+\ST@pageleft=\dimen174
+\ST@headht=\dimen175
+\ST@tailht=\dimen176
+\ST@pagesofar=\dimen177
+\ST@pboxht=\dimen178
+\ST@lineht=\dimen179
+\ST@prevht=\dimen180
+\ST@toadd=\dimen181
+\ST@dimen=\dimen182
 \ST@pbox=\box105
-)) (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
 Package: glossary-tree 2021/11/01 v4.49 (NLCT)
 \glstreeindent=\skip88
-)) (/usr/share/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-scrpage.sty
 Package: scrlayer-scrpage 2021/11/13 v3.35 KOMA-Script package (end user interface for scrlayer)
- (/usr/share/texmf-dist/tex/latex/koma-script/scrlayer.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.sty
 Package: scrlayer 2021/11/13 v3.35 KOMA-Script package (defining layers and page styles)
 Package scrlayer Info: Using already defined \footheight
 (scrlayer)             hoping, that this is a length and
@@ -505,48 +504,53 @@ Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
 1: section
 1: section
 1: subsection
-(./resources/styles/header_footer.tex) (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+(resources/styles/header_footer.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 Package scrhack Info: loading setspace hack on input line 39.
- (/usr/share/texmf-dist/tex/latex/koma-script/setspace.hak
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\setspace.hak
 File: setspace.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package setspace)
-) (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2022/03/14 v3.0d Micro-typographical refinements (RS)
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2021/12/02 v3.0a Micro-typographical refinements (RS)
 \MT@toks=\toks36
+\MT@count=\count324
 \MT@tempbox=\box106
-\MT@count=\count326
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
-LaTeX Info: Redefining \leftprotrusion on input line 1028.
-LaTeX Info: Redefining \rightprotrusion on input line 1036.
-LaTeX Info: Redefining \textls on input line 1195.
-\MT@outer@kern=\dimen184
-LaTeX Info: Redefining \textmicrotypecontext on input line 1781.
-\MT@listname@count=\count327
- (/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2022/03/14 v3.0d Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 900.
-LaTeX Info: Redefining \lslig on input line 900.
+LaTeX Info: Redefining \leftprotrusion on input line 1006.
+LaTeX Info: Redefining \rightprotrusion on input line 1014.
+LaTeX Info: Redefining \textls on input line 1182.
+\MT@outer@kern=\dimen183
+LaTeX Info: Redefining \textmicrotypecontext on input line 1768.
+\MT@listname@count=\count325
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2021/12/02 v3.0a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
 \MT@outer@space=\skip89
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2022/03/14 v3.0d microtype main configuration file (RS)
-)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/02/26 3.73 The Babel package
-\babel@savecnt=\count328
-\U@D=\dimen185
-\l@unhyphenated=\language87
- (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2021/12/02 v3.0a microtype main configuration file (RS)
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/11/29 3.67 The Babel package
+\babel@savecnt=\count326
+\U@D=\dimen184
+\l@unhyphenated=\language79
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count329
- (/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
+\bbl@dirlevel=\count327
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
 Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthography)
- (/usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
 Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthography)
 Package babel Info: Making " an active character on input line 122.
-))) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty
-Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
@@ -579,92 +583,92 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/usr/share/texmf-dist/tex/lualatex/luainputenc/luainputenc.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/lualatex/luainputenc\luainputenc.sty
 Package: luainputenc 2010/11/19 v0.973 inputenc package for LuaTeX
- (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks37
 \inpenc@posthook=\toks38
-)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
- (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (/usr/share/texmf-dist/tex/latex/float/float.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count330
+\c@float@type=\count328
 \float@exts=\toks39
 \float@box=\box107
 \@float@everytoks=\toks40
 \@floatcapt=\box108
 )
 Package scrhack Info: loading float hack on input line 56.
- (/usr/share/texmf-dist/tex/latex/koma-script/float.hak
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\float.hak
 File: float.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package float)
 Package scrhack Info: redefining \newfloat on input line 163.
 Package scrhack Info: redefining \listof on input line 163.
 Package scrhack Info: undefining \float@addtolists on input line 163.
-) (/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
- (/usr/share/texmf-dist/tex/latex/tools/array.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen186
+\col@sep=\dimen185
 \ar@mcellbox=\box109
-\extrarowheight=\dimen187
+\extrarowheight=\dimen186
 \NC@list=\toks41
 \extratabsurround=\skip90
 \backup@length=\skip91
 \ar@cellbox=\box110
 )
-\TX@col@width=\dimen188
-\TX@old@table=\dimen189
-\TX@old@col=\dimen190
-\TX@target=\dimen191
-\TX@delta=\dimen192
-\TX@cols=\count331
+\TX@col@width=\dimen187
+\TX@old@table=\dimen188
+\TX@old@col=\dimen189
+\TX@target=\dimen190
+\TX@delta=\dimen191
+\TX@cols=\count329
 \TX@ftn=\toks42
-) (/usr/share/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count332
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count330
 \lst@gtempboxa=\box111
 \lst@token=\toks43
-\lst@length=\count333
-\lst@currlwidth=\dimen193
-\lst@column=\count334
-\lst@pos=\count335
-\lst@lostspace=\dimen194
-\lst@width=\dimen195
-\lst@newlines=\count336
-\lst@lineno=\count337
-\lst@maxwidth=\dimen196
- (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+\lst@length=\count331
+\lst@currlwidth=\dimen192
+\lst@column=\count332
+\lst@pos=\count333
+\lst@lostspace=\dimen193
+\lst@width=\dimen194
+\lst@newlines=\count334
+\lst@lineno=\count335
+\lst@maxwidth=\dimen195
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count338
-\lst@skipnumbers=\count339
+\c@lstnumber=\count336
+\lst@skipnumbers=\count337
 \lst@framebox=\box112
-) (/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package scrhack Info: loading listings hack on input line 65.
- (/usr/share/texmf-dist/tex/latex/koma-script/listings.hak
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\listings.hak
 File: listings.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package listings)
 Package tocbasic Info: setting babel extension for `lol' on input line 143.
 Package scrhack Info: redefining \lstlistoflistings on input line 143.
 )
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
- (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
- (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
- (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-) (/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 \everycr=\toks44
 \minrowclearance=\skip92
 )
-\rownum=\count340
+\rownum=\count338
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
 Package xcolor Info: Model `RGB' extended on input line 1368.
@@ -674,384 +678,386 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
- (/usr/share/texmf-dist/tex/latex/graphics/dvipsnam.def
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
- (/usr/share/texmf-dist/tex/latex/tools/calc.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count341
-\calc@Bcount=\count342
-\calc@Adimen=\dimen197
-\calc@Bdimen=\dimen198
+\calc@Acount=\count339
+\calc@Bcount=\count340
+\calc@Adimen=\dimen196
+\calc@Bdimen=\dimen197
 \calc@Askip=\skip93
 \calc@Bskip=\skip94
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count343
+\calc@Ccount=\count341
 \calc@Cskip=\skip95
-) (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen199
-\ESO@tempdimb=\dimen256
-) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+\ESO@tempdima=\dimen198
+\ESO@tempdimb=\dimen199
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen257
-\Gin@req@width=\dimen258
+\Gin@req@height=\dimen256
+\Gin@req@width=\dimen257
 )
-\AM@pagewidth=\dimen259
-\AM@pageheight=\dimen260
-\AM@fboxrule=\dimen261
- (/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+\AM@pagewidth=\dimen258
+\AM@pageheight=\dimen259
+\AM@fboxrule=\dimen260
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count344
+\pdfpages@includegraphics@status=\count342
 \AM@pagebox=\box113
 \AM@global@opts=\toks45
-\AM@pagecnt=\count345
+\AM@pagecnt=\count343
 \AM@toc@title=\toks46
-\c@AM@survey=\count346
+\c@AM@survey=\count344
 \AM@templatesizebox=\box114
-) (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks47
-\pgfutil@tempdima=\dimen262
-\pgfutil@tempdimb=\dimen263
- (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@tempdima=\dimen261
+\pgfutil@tempdimb=\dimen262
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box115
-) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks48
 \pgfkeys@temptoks=\toks49
- (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks50
 ))
-\pgf@x=\dimen264
-\pgf@y=\dimen265
-\pgf@xa=\dimen266
-\pgf@ya=\dimen267
-\pgf@xb=\dimen268
-\pgf@yb=\dimen269
-\pgf@xc=\dimen270
-\pgf@yc=\dimen271
-\pgf@xd=\dimen272
-\pgf@yd=\dimen273
+\pgf@x=\dimen263
+\pgf@y=\dimen264
+\pgf@xa=\dimen265
+\pgf@ya=\dimen266
+\pgf@xb=\dimen267
+\pgf@yb=\dimen268
+\pgf@xc=\dimen269
+\pgf@yc=\dimen270
+\pgf@xd=\dimen271
+\pgf@yd=\dimen272
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count347
-\c@pgf@countb=\count348
-\c@pgf@countc=\count349
-\c@pgf@countd=\count350
+\c@pgf@counta=\count345
+\c@pgf@countb=\count346
+\c@pgf@countc=\count347
+\c@pgf@countd=\count348
 \t@pgf@toka=\toks51
 \t@pgf@tokb=\toks52
 \t@pgf@tokc=\toks53
-\pgf@sys@id@count=\count351
- (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+\pgf@sys@id@count=\count349
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-))) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count352
-\pgfsyssoftpath@bigbuffer@items=\count353
-) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+\pgfsyssoftpath@smallbuffer@items=\count350
+\pgfsyssoftpath@bigbuffer@items=\count351
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen274
-\pgfmath@count=\count354
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen273
+\pgfmath@count=\count352
 \pgfmath@box=\box116
 \pgfmath@toks=\toks54
 \pgfmath@stack@operand=\toks55
 \pgfmath@stack@operation=\toks56
-) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count355
-)) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count353
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen275
-\pgf@picmaxx=\dimen276
-\pgf@picminy=\dimen277
-\pgf@picmaxy=\dimen278
-\pgf@pathminx=\dimen279
-\pgf@pathmaxx=\dimen280
-\pgf@pathminy=\dimen281
-\pgf@pathmaxy=\dimen282
-\pgf@xx=\dimen283
-\pgf@xy=\dimen284
-\pgf@yx=\dimen285
-\pgf@yy=\dimen286
-\pgf@zx=\dimen287
-\pgf@zy=\dimen288
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+\pgf@picminx=\dimen274
+\pgf@picmaxx=\dimen275
+\pgf@picminy=\dimen276
+\pgf@picmaxy=\dimen277
+\pgf@pathminx=\dimen278
+\pgf@pathmaxx=\dimen279
+\pgf@pathminy=\dimen280
+\pgf@pathmaxy=\dimen281
+\pgf@xx=\dimen282
+\pgf@xy=\dimen283
+\pgf@yx=\dimen284
+\pgf@yy=\dimen285
+\pgf@zx=\dimen286
+\pgf@zy=\dimen287
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen289
-\pgf@path@lasty=\dimen290
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+\pgf@path@lastx=\dimen288
+\pgf@path@lasty=\dimen289
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen291
-\pgf@shorten@start@additional=\dimen292
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+\pgf@shorten@end@additional=\dimen290
+\pgf@shorten@start@additional=\dimen291
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box117
 \pgf@hbox=\box118
 \pgf@layerbox@main=\box119
-\pgf@picture@serial@count=\count356
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+\pgf@picture@serial@count=\count354
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen293
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+\pgflinewidth=\dimen292
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen294
-\pgf@pt@y=\dimen295
-\pgf@pt@temp=\dimen296
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+\pgf@pt@x=\dimen293
+\pgf@pt@y=\dimen294
+\pgf@pt@temp=\dimen295
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen297
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+\pgfarrowsep=\dimen296
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen298
-\pgf@sys@shading@range@num=\count357
-\pgf@shadingcount=\count358
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+\pgf@max=\dimen297
+\pgf@sys@shading@range@num=\count355
+\pgf@shadingcount=\count356
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box120
-)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box121
-) (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen299
-\pgf@nodesepend=\dimen300
-) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+\pgf@nodesepstart=\dimen298
+\pgf@nodesepend=\dimen299
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-)) (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen301
-\pgffor@skip=\dimen302
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen300
+\pgffor@skip=\dimen301
 \pgffor@stack=\toks57
 \pgffor@toks=\toks58
-)) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count359
-\pgfplotmarksize=\dimen303
+\pgf@plot@mark@count=\count357
+\pgfplotmarksize=\dimen302
 )
-\tikz@lastx=\dimen304
-\tikz@lasty=\dimen305
-\tikz@lastxsaved=\dimen306
-\tikz@lastysaved=\dimen307
-\tikz@lastmovetox=\dimen308
-\tikz@lastmovetoy=\dimen309
-\tikzleveldistance=\dimen310
-\tikzsiblingdistance=\dimen311
+\tikz@lastx=\dimen303
+\tikz@lasty=\dimen304
+\tikz@lastxsaved=\dimen305
+\tikz@lastysaved=\dimen306
+\tikz@lastmovetox=\dimen307
+\tikz@lastmovetoy=\dimen308
+\tikzleveldistance=\dimen309
+\tikzsiblingdistance=\dimen310
 \tikz@figbox=\box122
 \tikz@figbox@bg=\box123
 \tikz@tempbox=\box124
 \tikz@tempbox@bg=\box125
-\tikztreelevel=\count360
-\tikznumberofchildren=\count361
-\tikznumberofcurrentchild=\count362
-\tikz@fig@count=\count363
- (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+\tikztreelevel=\count358
+\tikznumberofchildren=\count359
+\tikznumberofcurrentchild=\count360
+\tikz@fig@count=\count361
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count364
-\pgfmatrixcurrentcolumn=\count365
-\pgf@matrix@numberofcolumns=\count366
+\pgfmatrixcurrentrow=\count362
+\pgfmatrixcurrentcolumn=\count363
+\pgf@matrix@numberofcolumns=\count364
 )
-\tikz@expandcount=\count367
- (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+\tikz@expandcount=\count365
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen312
-\WF@size=\dimen313
-\c@WF@wrappedlines=\count368
+))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen311
+\WF@size=\dimen312
+\c@WF@wrappedlines=\count366
 \WF@box=\box126
 \WF@everypar=\toks59
 Package: wrapfig 2003/01/31  v 3.6
-) (/usr/share/texmf-dist/tex/latex/pgfplots/pgfplots.sty (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
- (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
 \t@pgfplots@toka=\toks60
 \t@pgfplots@tokb=\toks61
 \t@pgfplots@tokc=\toks62
-\pgfplots@tmpa=\dimen314
-\c@pgfplots@coordindex=\count369
-\c@pgfplots@scanlineindex=\count370
- (/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count371
-) (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count372
+\pgfplots@tmpa=\dimen313
+\c@pgfplots@coordindex=\count367
+\c@pgfplots@scanlineindex=\count368
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count369
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count370
 \t@pgfplotstable@a=\toks63
-) (/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count373
- (/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen315
-\pgfdecoratedremainingdistance=\dimen316
-\pgfdecoratedinputsegmentcompleteddistance=\dimen317
-\pgfdecoratedinputsegmentremainingdistance=\dimen318
-\pgf@decorate@distancetomove=\dimen319
-\pgf@decorate@repeatstate=\count374
-\pgfdecorationsegmentamplitude=\dimen320
-\pgfdecorationsegmentlength=\dimen321
+)
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count371
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen314
+\pgfdecoratedremainingdistance=\dimen315
+\pgfdecoratedinputsegmentcompleteddistance=\dimen316
+\pgfdecoratedinputsegmentremainingdistance=\dimen317
+\pgf@decorate@distancetomove=\dimen318
+\pgf@decorate@repeatstate=\count372
+\pgfdecorationsegmentamplitude=\dimen319
+\pgfdecorationsegmentlength=\dimen320
 )
 \tikz@lib@dec@box=\box127
-) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/usr/share/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count375
-\pgfplots@xmin@reg=\dimen322
-\pgfplots@xmax@reg=\dimen323
-\pgfplots@ymin@reg=\dimen324
-\pgfplots@ymax@reg=\dimen325
-\pgfplots@zmin@reg=\dimen326
-\pgfplots@zmax@reg=\dimen327
-)
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count373
+\pgfplots@xmin@reg=\dimen321
+\pgfplots@xmax@reg=\dimen322
+\pgfplots@ymin@reg=\dimen323
+\pgfplots@ymax@reg=\dimen324
+\pgfplots@zmin@reg=\dimen325
+\pgfplots@zmax@reg=\dimen326
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of KOMA-Script class, that doesn't
 (scrhack)             need that hack, on input line 81.
- (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
- (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen328
-\Hy@linkcounter=\count376
-\Hy@pagecounter=\count377
- (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen327
+\Hy@linkcounter=\count374
+\Hy@pagecounter=\count375
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count378
- (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count376
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4137.
-Package hyperref Info: Link nesting OFF on input line 4142.
-Package hyperref Info: Hyper index ON on input line 4145.
-Package hyperref Info: Plain pages OFF on input line 4152.
-Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count379
- (/usr/share/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count377
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen329
- (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen328
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count380
-\Field@Width=\dimen330
-\Fld@charsize=\dimen331
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
-LaTeX Info: Redefining \ref on input line 6097.
-LaTeX Info: Redefining \pageref on input line 6101.
- (/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+\Fld@menulength=\count378
+\Field@Width=\dimen329
+\Fld@charsize=\dimen330
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count381
-\c@Item=\count382
-\c@Hfootnote=\count383
+\Hy@abspage=\count379
+\c@Item=\count380
+\c@Hfootnote=\count381
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
- (/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count384
-\c@bookmark@seq@number=\count385
- (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+\Fld@listcount=\count382
+\c@bookmark@seq@number=\count383
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip96
-) (/usr/share/texmf-dist/tex/latex/cleveref/cleveref.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 Package cleveref Info: `hyperref' support loaded on input line 2370.
 LaTeX Info: Redefining \cref on input line 2370.
@@ -1065,205 +1071,205 @@ LaTeX Info: Redefining \Cpagerefrange on input line 2370.
 LaTeX Info: Redefining \labelcref on input line 2370.
 LaTeX Info: Redefining \labelcpageref on input line 2370.
 Package cleveref Info: `listings' support loaded on input line 3131.
-) (/usr/share/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2022-04-04 v3.0.50 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen332
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2021-12-03 v3.0.37 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen331
 \l__siunitx_angle_marker_box=\box128
 \l__siunitx_angle_unit_box=\box129
-\l__siunitx_compound_count_int=\count386
- (/usr/share/texmf-dist/tex/latex/translations/translations.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+\l__siunitx_compound_count_int=\count384
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e packages (CN)
 )
-\l__siunitx_number_exponent_fixed_int=\count387
-\l__siunitx_number_min_decimal_int=\count388
-\l__siunitx_number_min_integer_int=\count389
-\l__siunitx_number_round_precision_int=\count390
-\l__siunitx_number_group_minimum_int=\count391
+\l__siunitx_number_exponent_fixed_int=\count385
+\l__siunitx_number_min_decimal_int=\count386
+\l__siunitx_number_min_integer_int=\count387
+\l__siunitx_number_round_precision_int=\count388
+\l__siunitx_number_group_minimum_int=\count389
 \l__siunitx_table_tmp_box=\box130
-\l__siunitx_table_tmp_dim=\dimen333
-\l__siunitx_table_column_width_dim=\dimen334
+\l__siunitx_table_tmp_dim=\dimen332
+\l__siunitx_table_column_width_dim=\dimen333
 \l__siunitx_table_integer_box=\box131
 \l__siunitx_table_decimal_box=\box132
 \l__siunitx_table_before_box=\box133
 \l__siunitx_table_after_box=\box134
-\l__siunitx_table_before_dim=\dimen335
-\l__siunitx_table_carry_dim=\dimen336
-\l__siunitx_unit_tmp_int=\count392
-\l__siunitx_unit_position_int=\count393
-\l__siunitx_unit_total_int=\count394
-) (/usr/share/texmf-dist/tex/latex/physics/physics.sty
+\l__siunitx_table_before_dim=\dimen334
+\l__siunitx_table_carry_dim=\dimen335
+\l__siunitx_unit_tmp_int=\count390
+\l__siunitx_unit_position_int=\count391
+\l__siunitx_unit_total_int=\count392
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
 Package: physics 
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
- (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2021/06/14 version 4.51 text color boxes
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks64
 \verbatim@line=\toks65
 \verbatim@in@stream=\read4
-) (/usr/share/texmf-dist/tex/latex/environ/environ.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
- (/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 \tcb@titlebox=\box135
 \tcb@upperbox=\box136
 \tcb@lowerbox=\box137
 \tcb@phantombox=\box138
-\c@tcbbreakpart=\count395
-\c@tcblayer=\count396
-\c@tcolorbox@number=\count397
+\c@tcbbreakpart=\count393
+\c@tcblayer=\count394
+\c@tcolorbox@number=\count395
 \tcb@temp=\box139
 \tcb@temp=\box140
 \tcb@temp=\box141
 \tcb@temp=\box142
- (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
-Library (tcolorbox): 'tcbraster.code.tex' version '5.0.2'
-\c@tcbrastercolumn=\count398
-\c@tcbrasterrow=\count399
-\c@tcbrasternum=\count400
-\c@tcbraster=\count401
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
-Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '4.51'
+\c@tcbrastercolumn=\count396
+\c@tcbrasterrow=\count397
+\c@tcbrasternum=\count398
+\c@tcbraster=\count399
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '4.51'
 \tcb@waterbox=\box143
-(/usr/share/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
-)) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
-Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
-(/usr/share/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.51'
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '4.51'
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\pdfcol.sty
 Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
 )
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@testbox=\box144
 \tcb@totalupperbox=\box145
 \tcb@totallowerbox=\box146
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
-Library (tcolorbox): 'tcbhooks.code.tex' version '5.0.2'
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
-Library (tcolorbox): 'tcbtheorems.code.tex' version '5.0.2'
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
-Library (tcolorbox): 'tcbfitting.code.tex' version '5.0.2'
-\tcbfitdim=\dimen337
-\tcb@lowerfitdim=\dimen338
-\tcb@upperfitdim=\dimen339
-\tcb@cur@hbadness=\count402
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
-Library (tcolorbox): 'tcbxparse.code.tex' version '5.0.2'
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
-Library (tcolorbox): 'tcblistingsutf8.code.tex' version '5.0.2'
-(/usr/share/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
-Library (tcolorbox): 'tcblistings.code.tex' version '5.0.2'
-(/usr/share/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
-Library (tcolorbox): 'tcblistingscore.code.tex' version '5.0.2'
-(/usr/share/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
-Library (tcolorbox): 'tcbprocessing.code.tex' version '5.0.2'
-(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '4.51'
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '4.51'
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '4.51'
+\tcbfitdim=\dimen336
+\tcb@lowerfitdim=\dimen337
+\tcb@upperfitdim=\dimen338
+\tcb@cur@hbadness=\count400
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '4.51'
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '4.51'
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '4.51'
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '4.51'
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '4.51'
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 ))
-\c@tcblisting=\count403
-)) (/usr/share/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+\c@tcblisting=\count401
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsutf8.sty
 Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
- (/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
-))) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
-Library (tcolorbox): 'tcbexternal.code.tex' version '5.0.2'
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
-Library (tcolorbox): 'tcbmagazine.code.tex' version '5.0.2'
-) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
-Library (tcolorbox): 'tcbvignette.code.tex' version '5.0.2'
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '4.51'
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '4.51'
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '4.51'
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfadings.code.tex
 File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
-Library (tcolorbox): 'tcbposter.code.tex' version '5.0.2'
-)) (/usr/share/texmf-dist/tex/latex/todonotes/todonotes.sty
+))) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '4.51'
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
 Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
 Package: todonotes 2021/06/04
- (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-\c@@todonotes@numberoftodonotes=\count404
-) (/usr/share/texmf-dist/tex/latex/cancel/cancel.sty
+\c@@todonotes@numberoftodonotes=\count402
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
-) (/usr/share/texmf-dist/tex/latex/matlab-prettifier/matlab-prettifier.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/matlab-prettifier\matlab-prettifier.sty
 Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab source code
- (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-\netBracketCount@mlpr=\count405
-\blkLvl@mlpr=\count406
-\blkLvlAtClassdef@mlpr=\count407
+\netBracketCount@mlpr=\count403
+\blkLvl@mlpr=\count404
+\blkLvlAtClassdef@mlpr=\count405
 \emHeight@mlpr=\skip97
 \jayDepth@mlpr=\skip98
 \sectionRuleOffset@mlpr=\skip99
 \toks@mlpr=\toks66
-) (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
-\csq@reset=\count408
-\csq@gtype=\count409
-\csq@glevel=\count410
-\csq@qlevel=\count411
-\csq@maxlvl=\count412
-\csq@tshold=\count413
+\csq@reset=\count406
+\csq@gtype=\count407
+\csq@glevel=\count408
+\csq@qlevel=\count409
+\csq@maxlvl=\count410
+\csq@tshold=\count411
 \csq@ltx@everypar=\toks67
- (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-)) (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
- (/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count414
- (/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+\lrq@indent=\count412
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count415
-\c@listtotal=\count416
-\c@listcount=\count417
-\c@liststart=\count418
-\c@liststop=\count419
-\c@citecount=\count420
-\c@citetotal=\count421
-\c@multicitecount=\count422
-\c@multicitetotal=\count423
-\c@instcount=\count424
-\c@maxnames=\count425
-\c@minnames=\count426
-\c@maxitems=\count427
-\c@minitems=\count428
-\c@citecounter=\count429
-\c@maxcitecounter=\count430
-\c@savedcitecounter=\count431
-\c@uniquelist=\count432
-\c@uniquename=\count433
-\c@refsection=\count434
-\c@refsegment=\count435
-\c@maxextratitle=\count436
-\c@maxextratitleyear=\count437
-\c@maxextraname=\count438
-\c@maxextradate=\count439
-\c@maxextraalpha=\count440
-\c@abbrvpenalty=\count441
-\c@highnamepenalty=\count442
-\c@lownamepenalty=\count443
-\c@maxparens=\count444
-\c@parenlevel=\count445
-\blx@tempcnta=\count446
-\blx@tempcntb=\count447
-\blx@tempcntc=\count448
-\c@blx@maxsection=\count449
-\c@blx@maxsegment@0=\count450
-\blx@notetype=\count451
-\blx@parenlevel@text=\count452
-\blx@parenlevel@foot=\count453
-\c@blx@sectionciteorder@0=\count454
-\blx@entrysetcounter=\count455
-\blx@biblioinstance=\count456
+\c@tabx@nest=\count413
+\c@listtotal=\count414
+\c@listcount=\count415
+\c@liststart=\count416
+\c@liststop=\count417
+\c@citecount=\count418
+\c@citetotal=\count419
+\c@multicitecount=\count420
+\c@multicitetotal=\count421
+\c@instcount=\count422
+\c@maxnames=\count423
+\c@minnames=\count424
+\c@maxitems=\count425
+\c@minitems=\count426
+\c@citecounter=\count427
+\c@maxcitecounter=\count428
+\c@savedcitecounter=\count429
+\c@uniquelist=\count430
+\c@uniquename=\count431
+\c@refsection=\count432
+\c@refsegment=\count433
+\c@maxextratitle=\count434
+\c@maxextratitleyear=\count435
+\c@maxextraname=\count436
+\c@maxextradate=\count437
+\c@maxextraalpha=\count438
+\c@abbrvpenalty=\count439
+\c@highnamepenalty=\count440
+\c@lownamepenalty=\count441
+\c@maxparens=\count442
+\c@parenlevel=\count443
+\blx@tempcnta=\count444
+\blx@tempcntb=\count445
+\blx@tempcntc=\count446
+\blx@maxsection=\count447
+\blx@maxsegment@0=\count448
+\blx@notetype=\count449
+\blx@parenlevel@text=\count450
+\blx@parenlevel@foot=\count451
+\blx@sectionciteorder@0=\count452
+\blx@entrysetcounter=\count453
+\blx@biblioinstance=\count454
 \labelnumberwidth=\skip100
 \labelalphawidth=\skip101
 \biblabelsep=\skip102
@@ -1274,87 +1280,87 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibhang=\skip107
 \blx@bcfin=\read5
 \blx@bcfout=\write5
-\blx@langwohyphens=\language88
-\c@mincomprange=\count457
-\c@maxcomprange=\count458
-\c@mincompwidth=\count459
+\blx@langwohyphens=\language80
+\c@mincomprange=\count455
+\c@maxcomprange=\count456
+\c@mincompwidth=\count457
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count460
-\c@savedafterword=\count461
-\c@annotator=\count462
-\c@savedannotator=\count463
-\c@author=\count464
-\c@savedauthor=\count465
-\c@bookauthor=\count466
-\c@savedbookauthor=\count467
-\c@commentator=\count468
-\c@savedcommentator=\count469
-\c@editor=\count470
-\c@savededitor=\count471
-\c@editora=\count472
-\c@savededitora=\count473
-\c@editorb=\count474
-\c@savededitorb=\count475
-\c@editorc=\count476
-\c@savededitorc=\count477
-\c@foreword=\count478
-\c@savedforeword=\count479
-\c@holder=\count480
-\c@savedholder=\count481
-\c@introduction=\count482
-\c@savedintroduction=\count483
-\c@namea=\count484
-\c@savednamea=\count485
-\c@nameb=\count486
-\c@savednameb=\count487
-\c@namec=\count488
-\c@savednamec=\count489
-\c@translator=\count490
-\c@savedtranslator=\count491
-\c@shortauthor=\count492
-\c@savedshortauthor=\count493
-\c@shorteditor=\count494
-\c@savedshorteditor=\count495
-\c@labelname=\count496
-\c@savedlabelname=\count497
-\c@institution=\count498
-\c@savedinstitution=\count499
-\c@lista=\count500
-\c@savedlista=\count501
-\c@listb=\count502
-\c@savedlistb=\count503
-\c@listc=\count504
-\c@savedlistc=\count505
-\c@listd=\count506
-\c@savedlistd=\count507
-\c@liste=\count508
-\c@savedliste=\count509
-\c@listf=\count510
-\c@savedlistf=\count511
-\c@location=\count512
-\c@savedlocation=\count513
-\c@organization=\count514
-\c@savedorganization=\count515
-\c@origlocation=\count516
-\c@savedoriglocation=\count517
-\c@origpublisher=\count518
-\c@savedorigpublisher=\count519
-\c@publisher=\count520
-\c@savedpublisher=\count521
-\c@language=\count522
-\c@savedlanguage=\count523
-\c@origlanguage=\count524
-\c@savedoriglanguage=\count525
-\c@pageref=\count526
-\c@savedpageref=\count527
+\c@afterword=\count458
+\c@savedafterword=\count459
+\c@annotator=\count460
+\c@savedannotator=\count461
+\c@author=\count462
+\c@savedauthor=\count463
+\c@bookauthor=\count464
+\c@savedbookauthor=\count465
+\c@commentator=\count466
+\c@savedcommentator=\count467
+\c@editor=\count468
+\c@savededitor=\count469
+\c@editora=\count470
+\c@savededitora=\count471
+\c@editorb=\count472
+\c@savededitorb=\count473
+\c@editorc=\count474
+\c@savededitorc=\count475
+\c@foreword=\count476
+\c@savedforeword=\count477
+\c@holder=\count478
+\c@savedholder=\count479
+\c@introduction=\count480
+\c@savedintroduction=\count481
+\c@namea=\count482
+\c@savednamea=\count483
+\c@nameb=\count484
+\c@savednameb=\count485
+\c@namec=\count486
+\c@savednamec=\count487
+\c@translator=\count488
+\c@savedtranslator=\count489
+\c@shortauthor=\count490
+\c@savedshortauthor=\count491
+\c@shorteditor=\count492
+\c@savedshorteditor=\count493
+\c@labelname=\count494
+\c@savedlabelname=\count495
+\c@institution=\count496
+\c@savedinstitution=\count497
+\c@lista=\count498
+\c@savedlista=\count499
+\c@listb=\count500
+\c@savedlistb=\count501
+\c@listc=\count502
+\c@savedlistc=\count503
+\c@listd=\count504
+\c@savedlistd=\count505
+\c@liste=\count506
+\c@savedliste=\count507
+\c@listf=\count508
+\c@savedlistf=\count509
+\c@location=\count510
+\c@savedlocation=\count511
+\c@organization=\count512
+\c@savedorganization=\count513
+\c@origlocation=\count514
+\c@savedoriglocation=\count515
+\c@origpublisher=\count516
+\c@savedorigpublisher=\count517
+\c@publisher=\count518
+\c@savedpublisher=\count519
+\c@language=\count520
+\c@savedlanguage=\count521
+\c@origlanguage=\count522
+\c@savedoriglanguage=\count523
+\c@pageref=\count524
+\c@savedpageref=\count525
 \shorthandwidth=\skip108
 \shortjournalwidth=\skip109
 \shortserieswidth=\skip110
@@ -1371,58 +1377,58 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip121
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count528
-\c@textcitetotal=\count529
-\c@textcitemaxnames=\count530
-\c@biburlbigbreakpenalty=\count531
-\c@biburlbreakpenalty=\count532
-\c@biburlnumpenalty=\count533
-\c@biburlucpenalty=\count534
-\c@biburllcpenalty=\count535
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count526
+\c@textcitetotal=\count527
+\c@textcitemaxnames=\count528
+\c@biburlbigbreakpenalty=\count529
+\c@biburlbreakpenalty=\count530
+\c@biburlnumpenalty=\count531
+\c@biburlucpenalty=\count532
+\c@biburllcpenalty=\count533
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count536
+\c@smartand=\count534
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
-File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2021/03/25 v1.3e biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-File: numeric-comp.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count537
-\c@bbx:relatedtotal=\count538
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count535
+\c@bbx:relatedtotal=\count536
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
-File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2021/03/25 v1.3e biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count539
-\c@cbx@tempcntb=\count540
-\c@cbx@tempcntc=\count541
-\c@cbx@tempcntd=\count542
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count537
+\c@cbx@tempcntb=\count538
+\c@cbx@tempcntc=\count539
+\c@cbx@tempcntd=\count540
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1436,45 +1442,37 @@ Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\cites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Document encoding is UTF8 ....
-Package biblatex Info: ... and expl3
-(biblatex)             2022-04-10 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
- (/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
-)) (/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip122
-\multirow@cntb=\count543
+\multirow@cntb=\count541
 \multirow@dima=\skip123
-\bigstrutjot=\dimen340
-) (/usr/share/texmf-dist/tex/latex/nicematrix/nicematrix.sty
-Package: nicematrix 2022/03/11 v6.8 Enhanced arrays with the help of PGF/TikZ
-\g__nicematrix_env_int=\count544
-\g__nicematrix_NiceMatrixBlock_int=\count545
-\l__nicematrix_columns_width_dim=\dimen341
-\l__nicematrix_col_width_dim=\dimen342
-\g__nicematrix_row_total_int=\count546
-\g__nicematrix_col_total_int=\count547
-\l__nicematrix_key_nb_rows_int=\count548
-\g__nicematrix_blocks_wd_dim=\dimen343
-\g__nicematrix_blocks_ht_dim=\dimen344
-\g__nicematrix_blocks_dp_dim=\dimen345
-\l__nicematrix_width_dim=\dimen346
-\l__nicematrix_tabular_width_dim=\dimen347
-\l__nicematrix_old_iRow_int=\count549
-\l__nicematrix_old_jCol_int=\count550
-\g__nicematrix_total_X_weight_int=\count551
+\bigstrutjot=\dimen339
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/nicematrix\nicematrix.sty
+Package: nicematrix 2022/06/25 v6.10 Enhanced arrays with the help of PGF/TikZ
+\g__nicematrix_env_int=\count542
+\g__nicematrix_NiceMatrixBlock_int=\count543
+\l__nicematrix_columns_width_dim=\dimen340
+\l__nicematrix_col_width_dim=\dimen341
+\g__nicematrix_row_total_int=\count544
+\g__nicematrix_col_total_int=\count545
+\g__nicematrix_last_row_node_int=\count546
+\l__nicematrix_key_nb_rows_int=\count547
+\g__nicematrix_blocks_wd_dim=\dimen342
+\g__nicematrix_blocks_ht_dim=\dimen343
+\g__nicematrix_blocks_dp_dim=\dimen344
+\l__nicematrix_width_dim=\dimen345
+\l__nicematrix_tabular_width_dim=\dimen346
+\l__nicematrix_rule_width_dim=\dimen347
+\l__nicematrix_old_iRow_int=\count548
+\l__nicematrix_old_jCol_int=\count549
+\g__nicematrix_total_X_weight_int=\count550
 \l__nicematrix_X_columns_dim=\dimen348
 \l__nicematrix_x_initial_dim=\dimen349
 \l__nicematrix_y_initial_dim=\dimen350
@@ -1484,48 +1482,47 @@ Package: nicematrix 2022/03/11 v6.8 Enhanced arrays with the help of PGF/TikZ
 \l__nicematrix_tmpd_dim=\dimen354
 \g__nicematrix_width_last_col_dim=\dimen355
 \g__nicematrix_width_first_col_dim=\dimen356
-\l__nicematrix_row_min_int=\count552
-\l__nicematrix_row_max_int=\count553
-\l__nicematrix_col_min_int=\count554
-\l__nicematrix_col_max_int=\count555
-\g__nicematrix_static_num_of_col_int=\count556
+\l__nicematrix_row_min_int=\count551
+\l__nicematrix_row_max_int=\count552
+\l__nicematrix_col_min_int=\count553
+\l__nicematrix_col_max_int=\count554
+\g__nicematrix_static_num_of_col_int=\count555
 \l__nicematrix_rounded_corners_dim=\dimen357
 \l__nicematrix_line_width_dim=\dimen358
-\g__nicematrix_block_box_int=\count557
+\g__nicematrix_block_box_int=\count556
 \l__nicematrix_submatrix_extra_height_dim=\dimen359
 \l__nicematrix_submatrix_left_xshift_dim=\dimen360
 \l__nicematrix_submatrix_right_xshift_dim=\dimen361
-\l__nicematrix_first_row_int=\count558
-\l__nicematrix_first_col_int=\count559
-\l__nicematrix_last_row_int=\count560
-\l__nicematrix_last_col_int=\count561
-\c@tabularnote=\count562
-\c@nicematrix_draft=\count563
+\l__nicematrix_first_row_int=\count557
+\l__nicematrix_first_col_int=\count558
+\l__nicematrix_last_row_int=\count559
+\l__nicematrix_last_col_int=\count560
+\c@tabularnote=\count561
+\c@nicematrix_draft=\count562
 \l__nicematrix_cell_space_top_limit_dim=\dimen362
 \l__nicematrix_cell_space_bottom_limit_dim=\dimen363
-\l__nicematrix_inter_dots_dim=\dimen364
-\l__nicematrix_xdots_shorten_dim=\dimen365
-\l__nicematrix_radius_dim=\dimen366
-\l__nicematrix_notes_above_space_dim=\dimen367
-\l__nicematrix_left_margin_dim=\dimen368
-\l__nicematrix_right_margin_dim=\dimen369
-\l__nicematrix_extra_left_margin_dim=\dimen370
-\l__nicematrix_extra_right_margin_dim=\dimen371
-\c__nicematrix_max_l_dim=\dimen372
-\l__nicematrix_position_int=\count564
-\l__nicematrix_start_int=\count565
-\l__nicematrix_end_int=\count566
-\l__nicematrix_multiplicity_int=\count567
-\l__nicematrix_rule_width_dim=\dimen373
-\l__nicematrix_tmpc_int=\count568
+\l__nicematrix_xdots_inter_dim=\dimen364
+\l__nicematrix_xdots_shorten_start_dim=\dimen365
+\l__nicematrix_xdots_shorten_end_dim=\dimen366
+\l__nicematrix_xdots_radius_dim=\dimen367
+\l__nicematrix_notes_above_space_dim=\dimen368
+\l__nicematrix_left_margin_dim=\dimen369
+\l__nicematrix_right_margin_dim=\dimen370
+\l__nicematrix_extra_left_margin_dim=\dimen371
+\l__nicematrix_extra_right_margin_dim=\dimen372
+\c__nicematrix_max_l_dim=\dimen373
+\l__nicematrix_position_int=\count563
+\l__nicematrix_start_int=\count564
+\l__nicematrix_end_int=\count565
+\l__nicematrix_multiplicity_int=\count566
 \l__nicematrix_brace_yshift_dim=\dimen374
-) (/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
- (/usr/share/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
-) (/usr/share/texmf-dist/tex/latex/adjustbox/trimclip.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
- (/usr/share/texmf-dist/tex/latex/collectbox/collectbox.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box147
 )
@@ -1534,7 +1531,7 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@urx=\dimen377
 \tc@ury=\dimen378
 Package trimclip Info: Using driver 'tc-pdftex.def'.
- (/usr/share/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen379
@@ -1545,26 +1542,26 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@pheight=\dimen384
 \adjbox@pdepth=\dimen385
 \adjbox@ptotalheight=\dimen386
- (/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count569
-) (/usr/share/texmf-dist/tex/latex/varwidth/varwidth.sty
+\c@checkoddpage=\count567
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box148
-\sift@deathcycles=\count570
+\sift@deathcycles=\count568
 \@vwid@loff=\dimen387
 \@vwid@roff=\dimen388
-)) (/usr/share/texmf-dist/tex/latex/tools/indentfirst.sty
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-) (/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
-Package: fancyvrb 2022/04/12 4.2 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count571
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2021/11/24~ 4.1a~verbatim text (tvz,hv)
+\FV@CodeLineNo=\count569
 \FV@InFile=\read6
 \FV@TabBox=\box149
-\c@FancyVerbLine=\count572
-\FV@StepNumber=\count573
+\c@FancyVerbLine=\count570
+\FV@StepNumber=\count571
 \FV@OutFile=\write6
-) (/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen389
 \lightrulewidth=\dimen390
@@ -1576,32 +1573,32 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen396
 \cmidrulekern=\dimen397
 \defaultaddspace=\dimen398
-\@cmidla=\count574
-\@cmidlb=\count575
+\@cmidla=\count572
+\@cmidlb=\count573
 \@aboverulesep=\dimen399
 \@belowrulesep=\dimen400
-\@thisruleclass=\count576
-\@lastruleclass=\count577
+\@thisruleclass=\count574
+\@lastruleclass=\count575
 \@thisrulewidth=\dimen401
-) (/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
-\c@subfigure=\count578
-\c@subtable=\count579
-) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count576
+\c@subtable=\count577
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip124
 \enit@outerparindent=\dimen402
 \enit@toks=\toks68
 \enit@inbox=\box150
-\enit@count@id=\count580
-\enitdp@description=\count581
-)) (./resources/styles/adjustments.tex (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+\enit@count@id=\count578
+\enitdp@description=\count579
+)) (resources/styles/adjustments.tex (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ))
 
 LaTeX Warning: \include should only be used after \begin{document} on input line 8.
 
-(./titles/research_paper.tex)
+(titles/research_paper.tex)
 
 LaTeX Warning: \include should only be used after \begin{document} on input line 13.
 
@@ -1615,7 +1612,7 @@ Package glossaries Info: Writing glossary file main.glo on input line 25.
 \openout9 = `main.acn'.
 
 Package glossaries Info: Writing glossary file main.acn on input line 25.
-(./references/glossary_acronyms.tex)
+(references/glossary_acronyms.tex)
 \main@idxfile=\write10
 \openout10 = `main.idx'.
 
@@ -1625,7 +1622,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
-(./main.aux)
+(main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -1686,13 +1683,13 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
-(/usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
- (./main.glsdefs)
+ (main.glsdefs)
 LaTeX Info: Redefining \microtypecontext on input line 33.
 Package microtype Info: Applying patch `item' on input line 33.
 Package microtype Info: Applying patch `toc' on input line 33.
@@ -1708,36 +1705,36 @@ LaTeX Info: Redefining \showhyphens on input line 33.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-\c@lstlisting=\count582
+\c@lstlisting=\count580
 Package scrhack Info: undefining \float@addtolists on input line 33.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count583
+\scratchcounter=\count581
 \scratchdimen=\dimen403
 \scratchbox=\box151
-\nofMPsegments=\count584
-\nofMParguments=\count585
+\nofMPsegments=\count582
+\nofMParguments=\count583
 \everyMPshowfont=\toks69
-\MPscratchCnt=\count586
+\MPscratchCnt=\count584
 \MPscratchDim=\dimen404
-\MPnumerator=\count587
-\makeMPintoPDFobject=\count588
+\MPnumerator=\count585
+\makeMPintoPDFobject=\count586
 \everyMPtoPDFconversion=\toks70
-) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) (/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
- (/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package scrhack Info: loading lscape hack on input line 77.
- (/usr/share/texmf-dist/tex/latex/koma-script/lscape.hak
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\lscape.hak
 File: lscape.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package lscape)
 Package scrhack Info: \landscape patched to make \textheight change optional on input line 90.
 \scrh@LT@textheight=\skip125
@@ -1749,19 +1746,19 @@ Package pgfplots Warning: running in backwards compatibility mode (unsuitable ti
  on input line 33.
 
 Package hyperref Info: Link coloring OFF on input line 33.
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
- (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count589
+\c@section@level=\count587
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
- (./main.out) (./main.out)
+ (main.out) (main.out)
 \@outlinefile=\write11
 \openout11 = `main.out'.
 
@@ -1773,12 +1770,21 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
 (scrartcl)           before \begin{document} on input line 33.
- (/usr/share/texmf-dist/tex/latex/bookmark/bookmark.sty
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
- (/usr/share/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count590
-)) (/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-german.trsl
+\BKM@id=\count588
+))
+
+LaTeX hooks Warning: Generic hook
+(hooks)              'file/after/translations-basic-dictionary-german.trsl' is
+(hooks)              deprecated.
+(hooks)              Use hook
+(hooks)              'file/translations-basic-dictionary-german.trsl/after'
+(hooks)              instead.
+
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-german.trsl
 File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 33.
@@ -1788,32 +1794,40 @@ Package todonotes Warning: The length marginparwidth is less than 2cm and will m
 
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
-(/usr/share/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
-File: ngerman.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
+File: ngerman.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-File: german.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-File: german.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'ascii' specified.
 (biblatex)             No need to reencode data.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-11-22 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
 \openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+ (main.bbl)
 Package biblatex Info: Reference section=0 on input line 33.
 Package biblatex Info: Reference segment=0 on input line 33.
-\c@tabularnotesi=\count591
-\enitdp@tabularnotes=\count592
-\c@tabularnotes*i=\count593
-\enitdp@tabularnotes*=\count594
+\c@tabularnotesi=\count589
+\enitdp@tabularnotes=\count590
+\c@tabularnotes*i=\count591
+\enitdp@tabularnotes*=\count592
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1847,20 +1861,20 @@ Package biblatex Info: Reference segment=0 on input line 33.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 39.
- (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 39.
- (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 39.
- (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 39.
- (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 39.
@@ -1873,18 +1887,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout7 = `main.ist'.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/Users/milan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 47.
- (/usr/share/texmf-dist/tex/latex/lm/t1lmss.fd
-File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+ (C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package tocbasic Info: character protrusion at toc deactivated on input line 47.
- (./main.toc
-Package cleveref Info: loaded `ngerman' language definitions on input line 1.
+ (main.toc
+Package cleveref Info: loaded `ngerman' language definitions on input line 2.
 )
 \tf@toc=\write12
 \openout12 = `main.toc'.
@@ -1894,16 +1908,16 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 47.
 
 ]
 Package cleveref Info: loaded `ngerman' language definitions on input line 47.
- [2] (./chapter/Einleitung.tex)
+ [2] (chapter/Einleitung.tex)
 Package cleveref Info: loaded `ngerman' language definitions on input line 51.
- [1] (./chapter/kozeptvergleich.tex
+ [1] (chapter/kozeptvergleich.tex
 Overfull \hbox (18.11362pt too wide) in paragraph at lines 8--11
 \T1/lmr/m/n/12 (-10) Asycnchronmaschiene mit der drei-fa-chen Pol-zahl ge-gen-über der Einphasen-Synchronmaschiene
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 23.
-(/usr/share/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+(C:\Users\milan\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Overfull \hbox (39.8941pt too wide) in paragraph at lines 19--31
 [][] 
@@ -1913,19 +1927,19 @@ Overfull \hbox (39.8941pt too wide) in paragraph at lines 19--31
 Package cleveref Info: loaded `ngerman' language definitions on input line 52.
  [2
 
-] (./chapter/drehstromtrafo.tex
+] (chapter/drehstromtrafo.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<Bilder/netztrafo.png, id=119, 834.11626pt x 768.8725pt>
+<Bilder/netztrafo.png, id=118, 834.11626pt x 768.8725pt>
 File: Bilder/netztrafo.png Graphic file (type png)
 <use Bilder/netztrafo.png>
 Package pdftex.def Info: Bilder/netztrafo.png  used on input line 8.
 (pdftex.def)             Requested size: 227.62206pt x 209.8157pt.
 \g__nicematrix_max_cell_width_dim=\dimen405
-\c@iRow=\count595
-\c@jCol=\count596
+\c@iRow=\count593
+\c@jCol=\count594
 \l__nicematrix_cell_box=\box152
 \l__nicematrix_the_array_box=\box153
 \l__nicematrix_left_delim_dim=\dimen406
@@ -1937,18 +1951,18 @@ Package pdftex.def Info: Bilder/netztrafo.png  used on input line 8.
 \g__nicematrix_ht_last_row_dim=\dimen412
 \g__nicematrix_dp_last_row_dim=\dimen413
 \g__nicematrix_block_box_1_box=\box154
-\g__nicematrix_ddots_int=\count597
-\g__nicematrix_iddots_int=\count598
+\g__nicematrix_ddots_int=\count595
+\g__nicematrix_iddots_int=\count596
 \g__nicematrix_delta_x_one_dim=\dimen414
 \g__nicematrix_delta_y_one_dim=\dimen415
 \g__nicematrix_delta_x_two_dim=\dimen416
 \g__nicematrix_delta_y_two_dim=\dimen417
-\l__nicematrix_initial_i_int=\count599
-\l__nicematrix_initial_j_int=\count600
-\l__nicematrix_final_i_int=\count601
-\l__nicematrix_final_j_int=\count602
-\l__nicematrix_local_start_int=\count603
-\l__nicematrix_local_end_int=\count604
+\l__nicematrix_initial_i_int=\count597
+\l__nicematrix_initial_j_int=\count598
+\l__nicematrix_final_i_int=\count599
+\l__nicematrix_final_j_int=\count600
+\l__nicematrix_local_start_int=\count601
+\l__nicematrix_local_end_int=\count602
 Package cleveref Info: loaded `ngerman' language definitions on input line 39.
 [3
 
@@ -1968,8 +1982,8 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 84.
 Package cleveref Info: loaded `ngerman' language definitions on input line 53.
  [5
 
-] (./chapter/stromrichtertrafo.tex
-<Bilder/stromrichtertrafo.png, id=148, 780.9175pt x 1084.05pt>
+] (chapter/stromrichtertrafo.tex
+<Bilder/stromrichtertrafo.png, id=147, 780.9175pt x 1084.05pt>
 File: Bilder/stromrichtertrafo.png Graphic file (type png)
 <use Bilder/stromrichtertrafo.png>
 Package pdftex.def Info: Bilder/stromrichtertrafo.png  used on input line 41.
@@ -1996,15 +2010,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
 Package cleveref Info: loaded `ngerman' language definitions on input line 113.
 [8
 
-])
+]
+Package cleveref Info: loaded `ngerman' language definitions on input line 157.
+ [9])
 Package cleveref Info: loaded `ngerman' language definitions on input line 54.
- [9] (./chapter/trafo_allgemeine_anforderungen.tex
+ [10] (chapter/trafo_allgemeine_anforderungen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|\T1/lmr/m/n/12 (+10) mittl. Wick-lungs-über-tem-pe-ra-tur (Er-fah-
  []
 
 
-Overfull \hbox (32.39993pt too wide) in paragraph at lines 7--37
+Overfull \hbox (3.94717pt too wide) in paragraph at lines 7--37
  []$[][][][][]$[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
@@ -2034,39 +2050,61 @@ Overfull \hbox (16.79205pt too wide) in paragraph at lines 46--57
  []
 
 Package cleveref Info: loaded `ngerman' language definitions on input line 60.
-[10
+[11
 
 ]
 Package cleveref Info: loaded `ngerman' language definitions on input line 73.
- [11]
-Package cleveref Info: loaded `ngerman' language definitions on input line 106.
  [12]
-Package cleveref Info: loaded `ngerman' language definitions on input line 128.
+Package cleveref Info: loaded `ngerman' language definitions on input line 106.
  [13]
-Package cleveref Info: loaded `ngerman' language definitions on input line 146.
+Package cleveref Info: loaded `ngerman' language definitions on input line 128.
  [14]
-Package cleveref Info: loaded `ngerman' language definitions on input line 180.
+Package cleveref Info: loaded `ngerman' language definitions on input line 146.
  [15]
+Package cleveref Info: loaded `ngerman' language definitions on input line 180.
+ [16]
 Underfull \hbox (badness 10000) in paragraph at lines 197--200
 
  []
 
 )
 Package cleveref Info: loaded `ngerman' language definitions on input line 55.
- [16] (./chapter/umrichter.tex
-<Bilder/umrichter_schaltbild.png, id=244, 1194.4625pt x 1033.8625pt>
+ [17] (chapter/umrichter.tex
+<Bilder/umrichter_schaltbild.png, id=246, 1194.4625pt x 1033.8625pt>
 File: Bilder/umrichter_schaltbild.png Graphic file (type png)
 <use Bilder/umrichter_schaltbild.png>
-Package pdftex.def Info: Bilder/umrichter_schaltbild.png  used on input line 32.
+Package pdftex.def Info: Bilder/umrichter_schaltbild.png  used on input line 34.
 (pdftex.def)             Requested size: 227.62206pt x 197.00383pt.
-Package cleveref Info: loaded `ngerman' language definitions on input line 54.
- [17
 
- <./Bilder/umrichter_schaltbild.png>])
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 34--35
+[][] 
+ []
+
+<Bilder/umrichter_16.png, id=247, 248.42813pt x 410.2828pt>
+File: Bilder/umrichter_16.png Graphic file (type png)
+<use Bilder/umrichter_16.png>
+Package pdftex.def Info: Bilder/umrichter_16.png  used on input line 39.
+(pdftex.def)             Requested size: 182.09486pt x 300.73726pt.
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 39--40
+[][] 
+ []
+
+Package cleveref Info: loaded `ngerman' language definitions on input line 69.
+[18
+
+]
+Package cleveref Info: loaded `ngerman' language definitions on input line 69.
+ [19 <./Bilder/umrichter_schaltbild.png> <./Bilder/umrichter_16.png>]
+Overfull \hbox (8.71346pt too wide) in paragraph at lines 78--80
+[]\T1/lmr/m/n/12 (-10) DIN EN 60146-2: Halbleiter-Stromrichter Teil 2: Selbst-ge-führ-te Halbleiter-Stromrichter
+ []
+
+)
 Package cleveref Info: loaded `ngerman' language definitions on input line 56.
- [18] (./chapter/berechnungen.tex)
+ [20] (chapter/berechnungen.tex)
 Package cleveref Info: loaded `ngerman' language definitions on input line 57.
- [19
+ [21
 
 ]
 \@gls@deffile=\write13
@@ -2075,21 +2113,21 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 57.
 Package cleveref Info: loaded `ngerman' language definitions on input line 80.
  [1
 
-] (./chapter/Anhang.tex
+] (chapter/Anhang.tex
 Package cleveref Info: loaded `ngerman' language definitions on input line 22.
  [2
 
 ]
 Package cleveref Info: loaded `ngerman' language definitions on input line 39.
  [3]
-<Bilder/spannungsoberschwingung_umrichter.png, id=287, 785.93625pt x 414.54875pt>
+<Bilder/spannungsoberschwingung_umrichter.png, id=297, 785.93625pt x 414.54875pt>
 File: Bilder/spannungsoberschwingung_umrichter.png Graphic file (type png)
 <use Bilder/spannungsoberschwingung_umrichter.png>
 Package pdftex.def Info: Bilder/spannungsoberschwingung_umrichter.png  used on input line 54.
 (pdftex.def)             Requested size: 455.24411pt x 240.12848pt.
 Package cleveref Info: loaded `ngerman' language definitions on input line 95.
  [4]
-<Bilder/oberschwingungsamp_umrichterseite.png, id=296, 607.26875pt x 794.97pt>
+<Bilder/oberschwingungsamp_umrichterseite.png, id=305, 607.26875pt x 794.97pt>
 File: Bilder/oberschwingungsamp_umrichterseite.png Graphic file (type png)
 <use Bilder/oberschwingungsamp_umrichterseite.png>
 Package pdftex.def Info: Bilder/oberschwingungsamp_umrichterseite.png  used on input line 98.
@@ -2106,7 +2144,7 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 101.
  [7 <./Bilder/oberschwingungsamp_umrichterseite.png>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=314, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=324, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf>
 Package pdftex.def Info: Bilder/cad.pdf  used on input line 103.
@@ -2124,7 +2162,7 @@ pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF versi
 
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=317, page=1, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=327, page=1, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 1>
 Package pdftex.def Info: Bilder/cad.pdf , page1 used on input line 103.
@@ -2158,7 +2196,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page1 used on input line 103.
  [9 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=364, page=2, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=373, page=2, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 2>
 Package pdftex.def Info: Bilder/cad.pdf , page2 used on input line 103.
@@ -2174,7 +2212,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page2 used on input line 103.
 [10 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=369, page=3, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=378, page=3, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 3>
 Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 103.
@@ -2190,7 +2228,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page3 used on input line 103.
 [11 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=374, page=4, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=383, page=4, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 4>
 Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 103.
@@ -2206,7 +2244,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page4 used on input line 103.
 [12 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/cad.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/cad.pdf, id=379, page=5, 794.97pt x 614.295pt>
+<Bilder/cad.pdf, id=388, page=5, 794.97pt x 614.295pt>
 File: Bilder/cad.pdf Graphic file (type pdf)
 <use Bilder/cad.pdf, page 5>
 Package pdftex.def Info: Bilder/cad.pdf , page5 used on input line 103.
@@ -2222,7 +2260,7 @@ Package pdftex.def Info: Bilder/cad.pdf , page5 used on input line 103.
 [13 <./Bilder/cad.pdf, page is rotated 90 degrees>]
 
 pdfTeX warning: pdflatex (file ./Bilder/umrichter.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Bilder/umrichter.pdf, id=384, 845.04686pt x 597.50786pt>
+<Bilder/umrichter.pdf, id=394, 845.04686pt x 597.50786pt>
 File: Bilder/umrichter.pdf Graphic file (type pdf)
 <use Bilder/umrichter.pdf>
 Package pdftex.def Info: Bilder/umrichter.pdf  used on input line 104.
@@ -2240,7 +2278,7 @@ pdfTeX warning: pdflatex (file ./Bilder/umrichter.pdf): PDF inclusion: found PDF
 
 
 pdfTeX warning: pdflatex (file ./Bilder/umrichter.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Bilder/umrichter.pdf, id=387, page=1, 845.04686pt x 597.50786pt>
+<Bilder/umrichter.pdf, id=397, page=1, 845.04686pt x 597.50786pt>
 File: Bilder/umrichter.pdf Graphic file (type pdf)
 <use Bilder/umrichter.pdf, page 1>
 Package pdftex.def Info: Bilder/umrichter.pdf , page1 used on input line 104.
@@ -2267,8 +2305,8 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-(./main.aux
-Package cleveref Info: loaded `ngerman' language definitions on input line 35.
+(main.aux
+Package cleveref Info: loaded `ngerman' language definitions on input line 38.
 )
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -2277,18 +2315,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 78203 strings out of 478238
- 1812139 string characters out of 5850456
- 2809685 words of memory out of 5000000
- 95073 multiletter control sequences out of 15000+600000
- 523794 words of font info for 111 fonts, out of 8000000 for 9000
+ 78199 strings out of 478659
+ 1836977 string characters out of 2845919
+ 2804579 words of memory out of 3000000
+ 94912 multiletter control sequences out of 15000+600000
+ 457965 words of font info for 110 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 113i,22n,109p,10836b,2469s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (36 pages, 624349 bytes).
+ 113i,22n,109p,10887b,2343s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/milan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (38 pages, 689887 bytes).
 PDF statistics:
- 543 PDF objects out of 1000 (max. 8388607)
- 400 compressed objects within 4 object streams
- 138 named destinations out of 1000 (max. 500000)
- 37282 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 554 PDF objects out of 1000 (max. 8388607)
+ 141 named destinations out of 1000 (max. 500000)
+ 37287 words of extra memory for PDF output out of 42996 (max. 10000000)
 

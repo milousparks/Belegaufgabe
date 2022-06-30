@@ -1,3 +1,0 @@
-\contentsline {section}{\numberline {1}Allgemeine Projekt Beschreibung}{6}{section.0.1}%
-\contentsline {section}{\numberline {2}Konzeptionsvergleich zu Bahnumrichteranlage}{7}{section.0.2}%
-\contentsline {section}{Appendix A. Document Guidelines}{8}{section*.3}%

@@ -1,24 +1,48 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {ngerman}{}\relax 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Allgemeine Projekt Beschreibung}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}Konzeptvergleich: Bahnumrichteranlagen}{2}{section.2}%
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Drehstrom-Leistungstransformator 50 Hz}{3}{section.3}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}Allgemeine Merkmale}{3}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Bemessungsdaten:}{4}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Einphasen-Stromrichteröltrafo 16.7 Hz}{6}{section.4}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1}Allgemeine Merkmale}{6}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2}Bemessungsdaten:}{8}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.1}Kurzschlussspannung, Impedanzen}{8}{subsubsection.4.2.1}%
-\contentsline {section}{\numberline {5}Anforderungen an 50Hz und 16,7 Hz-Transformatoren}{10}{section.5}%
-\contentsline {section}{\numberline {6}Stromrichter}{17}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Allgemeine Merkmale}{17}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Anforderungen an 50Hz und 16,7 Hz-Transformatoren}{11}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Stromrichter}{18}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Allgemeine Merkmale}{18}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.2}Bemessungsdaten Umrichter}{18}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Funktionsprüfung}{18}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Berechnungen}{19}{section.7}%
-\contentsline {section}{\nonumberline Normen}{A}{section*.63}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Funktionsprüfung}{20}{subsection.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Berechnungen}{21}{section.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\nonumberline Normen}{A}{section*.64}%
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {A}Anhang}{B}{appendix.A}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.1}Anforderungen der DB AG}{B}{subsection.A.1}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.2}Harmonische von Umrichterspannungen und Umrichterströmen}{D}{subsection.A.2}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {A.2.1}Oberschwingungsamplituden der Drehstromseite}{D}{subsubsection.A.2.1}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {A.2.2}Oberschwingungsamplituden der Bahnnetzseite}{E}{subsubsection.A.2.2}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.3}CAD}{H}{subsection.A.3}%
+\defcounter {refsection}{0}\relax 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

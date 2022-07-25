@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  30 JUN 2022 19:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.18)  30 JUN 2022 19:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex"
-(/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex
+**"/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Bahnumrichter_Bericht/main.tex"
+(/home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Bahnumrichter_Bericht/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-04-10> (./resources/settings/settings.tex (/usr/share/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2021/11/13 v3.35 KOMA-Script document class (article)
@@ -2287,14 +2287,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  78923 strings out of 478238
- 1828083 string characters out of 5850456
- 2814554 words of memory out of 5000000
+ 1828092 string characters out of 5850456
+ 2814553 words of memory out of 5000000
  95780 multiletter control sequences out of 15000+600000
  523923 words of font info for 112 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 113i,22n,109p,10836b,2469s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 113i,22n,109p,10839b,2469s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (38 pages, 1147743 bytes).
+Output written on main.pdf (38 pages, 1147740 bytes).
 PDF statistics:
  605 PDF objects out of 1000 (max. 8388607)
  448 compressed objects within 5 object streams

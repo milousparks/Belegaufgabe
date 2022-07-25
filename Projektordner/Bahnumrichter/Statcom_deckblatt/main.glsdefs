@@ -1,0 +1,28 @@
+\glsdefs@newdocentry{4QS}%
+{%
+name={\acronymfont {\glsentryshort {4QS}}},%
+sort={4QS},%
+type={acronym},%
+first={4QS},%
+firstplural={4QSs},%
+text={4QS},%
+plural={4QSs},%
+description={Vierquadrantensteller},%
+descriptionplural={Vierquadrantensteller},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Vierquadrantensteller},%
+longplural={Vierquadrantenstellers},%
+short={4QS},%
+shortplural={4QSs},%
+counter={page},%
+parent={},%
+%
+}%
+

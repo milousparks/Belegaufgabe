@@ -1,0 +1,86 @@
+%Dokumenteinstellungen und Anpassungen
+\input{resources/settings/settings}
+\input{resources/styles/adjustments}
+
+%Titelformen - gewünschtes Layout einkommentieren
+
+%%Graduation
+\include{titles/research_paper}
+%\gradeType{Angewandte Mathematik}
+%\secondExaminer{Max Mustermann}
+
+%Research paper
+\include{titles/research_papger}
+\subTitle{Filterkreis Projektierung\\TCR Projektierung \\ Leistungsschalter Projektierung}
+\researchPart{einer dynamischen Blindstromkompensationsanlage}
+
+%Angaben zur Arbeit und dem Author (von beiden Layouts genutzt)
+\title{Thyristorgesteuerte Drossel (TCR) }
+\author{Milan Daniel Larsen 581929}
+\matrikelnr{581929}
+\submitDate{30.06.2022}
+\firstExaminer{Prof.\,Dr.\,S. Krämer}
+
+%Verzeichnisse generieren
+\makeglossaries
+\loadglsentries{references/glossary_acronyms.tex}
+\setacronymstyle{long-short}
+
+\makeindex[columns=2, title=Stichwortverzeichnis, options= -s resources/styles/indexstyle.ist, intoc]
+\indexsetup{level=\chapter*,toclevel=chapter}
+
+%Start des Inhalts
+\begin{document}
+
+%Notwendiger Workaround
+\pagenumbering{alph}
+
+%Deckblatt erzeugen
+\maketitle
+
+\pagenumbering{Roman}
+
+%\include{chapter/Vorwort} \clearpage
+%\include{chapter/Abstract} \clearpage
+
+%Inhaltsverzeichnis
+\tableofcontents \newpage
+
+%Hauptteil
+\pagenumbering{arabic}
+\input{chapter/Einleitung} \clearpage
+%\input{chapter/kozeptvergleich} \clearpage
+%\input{chapter/drehstromtrafo} \clearpage
+%\input{chapter/stromrichtertrafo} \clearpage
+%\input{chapter/trafo_allgemeine_anforderungen} \clearpage
+%\input{chapter/umrichter} \clearpage
+%\input{chapter/berechnungen} \clearpage
+
+\newacronym{4QS}{4QS}{Vierquadrantensteller}
+%Anhang
+\pagenumbering{Alph}
+
+%Abbildungsverzeichnis
+%\listoffigures \clearpage
+%Tabellenverzeichnis
+%\listoftables \clearpage
+%Quelltextverzeichnis
+%\lstlistoflistings \clearpage
+%Stichwortverzeichnis
+%\printindex \clearpage
+%Glossar
+%\printglossary[title={Glossar}] \clearpage
+%Abkürzungsverzeichnis
+%\printglossary[style=dottedlocations,type=\acronymtype,title={Abkürzungsverzeichnis}] \clearpage
+
+%Literaturverzeichnisse (getrennt nach Stichwort)
+%\printbibliography[heading=bibintoc, keyword={book}, %title={Literaturverzeichnis}]\clearpage
+%\printbibliography[heading=bibintoc, keyword={online}, title={Onlinequellen}]\clearpage
+%\printbibliography[heading=bibintoc, keyword={image}, title={Bildquellen}]\clearpage
+%\printbibliography[title={Normative Verweise}]\clearpage
+% Anhang
+%\input{chapter/Anhang}
+
+% Eigenständigkeitserklärung
+%\input{chapter/Eigenstaendigkeitserklaerung}
+\end{document}

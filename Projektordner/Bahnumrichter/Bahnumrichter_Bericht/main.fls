@@ -1,7 +1,7 @@
-PWD /home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht
+PWD /home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Bahnumrichter_Bericht
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Angewandte Bericht/main.tex
+INPUT /home/milou/OneDrive/Master/Semester_02_SoSe_2022/M10 FACTS (SL) - 1. Zug- SoSe2022/Belegaufgabe/Projektordner/Bahnumrichter/Bahnumrichter_Bericht/main.tex
 OUTPUT main.log
 INPUT ./resources/settings/settings.tex
 INPUT ./resources/settings/settings.tex
